@@ -1,0 +1,26 @@
+{
+  "name": "skverna",
+  "productName": "SKVERNA",
+  "version": "0.1.0",
+  "description": "SKVERNA — мрачная песочница-выживание по мотивам скандинавской мифологии",
+  "main": "main.js",
+  "author": "SKVERNA",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win"
+  },
+  "devDependencies": {
+    "electron": "^31.7.7",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.skverna.game",
+    "productName": "SKVERNA",
+    "asar": false,
+    "directories": { "output": "dist" },
+    "files": ["main.js", "preload.js", "index.html", "css/**", "js/**", "assets/**", "package.json"],
+    "win": { "target": [{ "target": "nsis", "arch": ["x64"] }, { "target": "portable", "arch": ["x64"] }] },
+    "nsis": { "oneClick": false, "allowToChangeInstallationDirectory": true, "createDesktopShortcut": true, "createStartMenuShortcut": true, "shortcutName": "SKVERNA" },
+    "compression": "normal"
+  }
+}

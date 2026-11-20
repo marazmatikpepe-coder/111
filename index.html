@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru"><head><meta charset="utf-8"><title>SKVERNA</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head><body>
+<canvas id="game"></canvas>
+<div id="ui">
+  <div id="loading" class="screen show"><div class="lt">SKVERNA</div><div class="bar"><b id="lbar"></b></div><div id="ltxt">Загрузка…</div></div>
+
+  <div id="menu" class="screen">
+    <img id="logo" src="assets/ui/logo.png" alt="SKVERNA">
+    <div id="mainbtns">
+      <button class="btn" data-go="play">Играть</button>
+      <button class="btn" data-go="settings">Настройки</button>
+      <button class="btn" id="btnquit">Выход</button>
+    </div>
+    <div id="ver">Версия 0.1 · Мидгард</div>
+  </div>
+
+  <div id="play" class="screen panelwrap">
+    <div class="panel big">
+      <h2>Играть</h2>
+      <div class="tabs"><button class="tab on" data-t="worlds">Мои миры</button><button class="tab" data-t="create">Создать мир</button><button class="tab" data-t="join">Подключиться</button></div>
+      <div class="tabbody" id="t-worlds"><div id="worldlist"></div></div>
+      <div class="tabbody" id="t-create" hidden>
+        <label>Название мира<input id="wname" maxlength="24" value="Новый мир"></label>
+        <label>Зерно генерации (необязательно)<input id="wseed" placeholder="случайное"></label>
+        <button class="btn sm" id="btncreate">Создать и войти</button>
+      </div>
+      <div class="tabbody" id="t-join" hidden>
+        <p class="muted">Введите уникальный ID мира, который показывает хозяин в меню паузы.</p>
+        <label>ID мира<input id="joinid" placeholder="например SKV-7K3Q9X2M" maxlength="40"></label>
+        <button class="btn sm" id="btnjoin">Подключиться</button><div id="joinmsg" class="muted"></div>
+      </div>
+      <button class="btn sm back" data-go="menu">Назад</button>
+    </div>
+  </div>
+
+  <div id="settings" class="screen panelwrap">
+    <div class="panel big">
+      <h2>Настройки</h2>
+      <div class="tabs"><button class="tab on" data-s="keys">Управление</button><button class="tab" data-s="pad">Контроллер</button><button class="tab" data-s="sound">Звук</button><button class="tab" data-s="screen">Экран</button><button class="tab" data-s="player">Игрок</button></div>
+      <div class="tabbody" id="s-keys"></div><div class="tabbody" id="s-pad" hidden></div><div class="tabbody" id="s-sound" hidden></div><div class="tabbody" id="s-screen" hidden></div><div class="tabbody" id="s-player" hidden></div>
+      <button class="btn sm back" id="setback">Назад</button>
+    </div>
+  </div>
+
+  <div id="pause" class="screen panelwrap" style="display:none">
+    <div class="panel">
+      <h2>Пауза</h2>
+      <button class="btn" id="p-resume">Продолжить</button>
+      <button class="btn" id="p-net">Открыть мир для сети</button>
+      <div id="netinfo" class="muted"></div>
+      <button class="btn" id="p-settings">Настройки</button>
+      <button class="btn" id="p-exit">Сохранить и выйти</button>
+    </div>
+  </div>
+
+  <div id="hud" style="display:none">
+    <div id="hpbox"><div class="hpbar"><i id="hptrail"></i><b id="hpfill"></b><span id="hptxt"></span></div><div class="dashbar"><b id="dashfill"></b></div><div class="def">⛨ <span id="defv">0</span></div></div>
+    <div id="minibox"><canvas id="mini" width="160" height="160"></canvas><div id="clock"></div></div>
+    <div id="buffs"></div>
+    <div id="toasts"></div>
+    <div id="banner"></div>
+    <div id="bossbar"><div id="bossname"></div><div class="bb"><b id="bossfill"></b></div><span id="bossph"></span></div>
+    <div id="itemname"></div>
+    <div id="hotbar"></div>
+    <div id="hint">WASD — ход · ЛКМ/J — удар и добыча · ПКМ/F — поставить/использовать · Пробел — рывок · E — действие · Tab — инвентарь</div>
+  </div>
+
+  <div id="inv" class="screen panelwrap" style="display:none">
+    <div class="panel invp">
+      <div class="col"><h3>Инвентарь</h3><div id="invgrid"></div><div class="muted sm">Клик — взять/положить · ПКМ — в руку</div><h3>Экипировка</h3><div id="equip"></div></div>
+      <div class="col"><h3>Создание</h3><div id="stations"></div><div id="recipes"></div></div>
+    </div>
+  </div>
+  <div id="err"></div>
+</div>
+<script>window.onerror=function(m,s,l,c,e){var d=document.getElementById('err');d.style.display='block';d.textContent='Ошибка: '+m+' ('+String(s).split('/').pop()+':'+l+')\n'+(e&&e.stack?e.stack.split('\n').slice(0,4).join('\n'):'');};window.addEventListener('unhandledrejection',function(e){var d=document.getElementById('err');d.style.display='block';d.textContent='Ошибка: '+(e.reason&&e.reason.stack||e.reason);});</script>
+<script src="assets/manifest.js"></script>
+<script src="js/core.js"></script><script src="js/audio.js"></script><script src="js/fx.js"></script><script src="js/data.js"></script><script src="js/world.js"></script>
+<script src="js/entities.js"></script><script src="js/player.js"></script><script src="js/game.js"></script><script src="js/net.js"></script><script src="js/menu.js"></script><script src="js/main.js"></script>
+</body></html>
