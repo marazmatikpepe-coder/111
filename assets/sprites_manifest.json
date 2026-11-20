@@ -1,0 +1,4977 @@
+{
+"mobs": {
+"arhinekromant": {
+"name": "Архинекромант",
+"w": 421,
+"h": 460
+},
+"gonchaya_garma": {
+"name": "Гончая гарма",
+"w": 460,
+"h": 439
+},
+"grif": {
+"name": "Гриф",
+"w": 413,
+"h": 460
+},
+"korrumpirovannyy_strazh": {
+"name": "Коррумпированный страж",
+"w": 292,
+"h": 460
+},
+"kristallicheskiy_olen_asgarda": {
+"name": "Кристаллический олень Асгарда",
+"w": 273,
+"h": 460
+},
+"lich": {
+"name": "Лич",
+"w": 390,
+"h": 460
+},
+"alhimik": {
+"name": "алхимик",
+"w": 345,
+"h": 460
+},
+"anakonda": {
+"name": "анаконда",
+"w": 460,
+"h": 374
+},
+"arhimag": {
+"name": "архимаг",
+"w": 395,
+"h": 460
+},
+"banshi": {
+"name": "банши",
+"w": 346,
+"h": 460
+},
+"bezgolovyy_vsadnik": {
+"name": "безголовый всадник",
+"w": 357,
+"h": 460
+},
+"belyy_mag": {
+"name": "белый маг",
+"w": 362,
+"h": 460
+},
+"belyy_medved": {
+"name": "белый медведь",
+"w": 460,
+"h": 322
+},
+"bluzhdayuschiy_duh": {
+"name": "блуждающий дух",
+"w": 320,
+"h": 460
+},
+"bolotnaya_zhaba": {
+"name": "болотная жаба",
+"w": 460,
+"h": 408
+},
+"varvar_shaman": {
+"name": "варвар-шаман",
+"w": 431,
+"h": 460
+},
+"vedma_bolota": {
+"name": "ведьма болота",
+"w": 360,
+"h": 460
+},
+"vedma_krovi": {
+"name": "ведьма крови",
+"w": 373,
+"h": 460
+},
+"vedma_lda": {
+"name": "ведьма льда",
+"w": 404,
+"h": 460
+},
+"vedma_ognya": {
+"name": "ведьма огня",
+"w": 395,
+"h": 460
+},
+"vedma_proklyatiy": {
+"name": "ведьма проклятий",
+"w": 362,
+"h": 460
+},
+"vedma_pustoshey": {
+"name": "ведьма пустошей",
+"w": 373,
+"h": 460
+},
+"vedma_otshelnica": {
+"name": "ведьма-отшельница",
+"w": 401,
+"h": 460
+},
+"vedma": {
+"name": "ведьма",
+"w": 351,
+"h": 460
+},
+"vedmak": {
+"name": "ведьмак",
+"w": 357,
+"h": 460
+},
+"volk": {
+"name": "волк",
+"w": 460,
+"h": 361
+},
+"voron": {
+"name": "ворон",
+"w": 460,
+"h": 376
+},
+"vurdalak": {
+"name": "вурдалак",
+"w": 362,
+"h": 460
+},
+"glavar_razboynikov": {
+"name": "главарь разбойников",
+"w": 398,
+"h": 460
+},
+"gladiator": {
+"name": "гладиатор",
+"w": 371,
+"h": 460
+},
+"glinyanyy_golem": {
+"name": "глиняный голем",
+"w": 460,
+"h": 428
+},
+"gornyy_kozel": {
+"name": "горный козел",
+"w": 338,
+"h": 460
+},
+"gornyy_orel": {
+"name": "горный орел",
+"w": 392,
+"h": 460
+},
+"dikar": {
+"name": "дикарь",
+"w": 365,
+"h": 460
+},
+"dikiy_volk": {
+"name": "дикий волк",
+"w": 460,
+"h": 369
+},
+"drevniy_strazh": {
+"name": "древний страж",
+"w": 373,
+"h": 460
+},
+"duh_proklyatogo": {
+"name": "дух проклятого",
+"w": 345,
+"h": 460
+},
+"duelyant": {
+"name": "дуэлянт",
+"w": 401,
+"h": 460
+},
+"ezh": {
+"name": "еж",
+"w": 460,
+"h": 372
+},
+"enot": {
+"name": "енот",
+"w": 460,
+"h": 315
+},
+"zhaba": {
+"name": "жаба",
+"w": 460,
+"h": 364
+},
+"zheleznyy_golem": {
+"name": "железный голем",
+"w": 401,
+"h": 460
+},
+"zhitel_derevni": {
+"name": "житель деревни",
+"w": 309,
+"h": 460
+},
+"zhrec_drevnego_kulta": {
+"name": "жрец древнего культа",
+"w": 337,
+"h": 460
+},
+"zhrec": {
+"name": "жрец",
+"w": 390,
+"h": 460
+},
+"zmey_pustoshey": {
+"name": "змей пустошей",
+"w": 430,
+"h": 460
+},
+"zombi_ohotnik": {
+"name": "зомби-охотник",
+"w": 369,
+"h": 460
+},
+"illyuzionist": {
+"name": "иллюзионист",
+"w": 452,
+"h": 460
+},
+"kaban": {
+"name": "кабан",
+"w": 460,
+"h": 349
+},
+"kamennyy_golem": {
+"name": "каменный голем",
+"w": 460,
+"h": 386
+},
+"kamennyy_strazh": {
+"name": "каменный страж",
+"w": 450,
+"h": 460
+},
+"kostyanoy_koloss": {
+"name": "костяной колосс",
+"w": 460,
+"h": 432
+},
+"kostyanoy_strazh": {
+"name": "костяной страж",
+"w": 460,
+"h": 426
+},
+"krestyanin_starik": {
+"name": "крестьянин-старик",
+"w": 358,
+"h": 460
+},
+"krestyanin": {
+"name": "крестьянин",
+"w": 399,
+"h": 460
+},
+"kristalnyy_golem": {
+"name": "кристальный голем",
+"w": 453,
+"h": 460
+},
+"krokodil": {
+"name": "крокодил",
+"w": 460,
+"h": 150
+},
+"krolik": {
+"name": "кролик",
+"w": 460,
+"h": 435
+},
+"kurica": {
+"name": "курица",
+"w": 335,
+"h": 460
+},
+"lavovyy_krab": {
+"name": "лавовый краб",
+"w": 460,
+"h": 305
+},
+"ledyanoy_voin": {
+"name": "ледяной воин",
+"w": 345,
+"h": 460
+},
+"ledyanoy_medved": {
+"name": "ледяной медведь",
+"w": 460,
+"h": 421
+},
+"mag_vetra": {
+"name": "маг ветра",
+"w": 393,
+"h": 460
+},
+"mag_zemli": {
+"name": "маг земли",
+"w": 389,
+"h": 460
+},
+"mag_krovi": {
+"name": "маг крови",
+"w": 398,
+"h": 460
+},
+"mag_lda": {
+"name": "маг льда",
+"w": 413,
+"h": 460
+},
+"mag_ognya": {
+"name": "маг огня",
+"w": 394,
+"h": 460
+},
+"mag_stihiy": {
+"name": "маг стихий",
+"w": 403,
+"h": 460
+},
+"mag_teney": {
+"name": "маг теней",
+"w": 376,
+"h": 460
+},
+"mag_haosa": {
+"name": "маг хаоса",
+"w": 397,
+"h": 460
+},
+"mag_otstupnik": {
+"name": "маг-отступник",
+"w": 364,
+"h": 460
+},
+"mag": {
+"name": "маг",
+"w": 398,
+"h": 460
+},
+"magicheskiy_strannik": {
+"name": "магический странник",
+"w": 439,
+"h": 460
+},
+"mamont": {
+"name": "мамонт",
+"w": 460,
+"h": 428
+},
+"medved": {
+"name": "медведь",
+"w": 460,
+"h": 314
+},
+"mini_ognennyy_voin": {
+"name": "мини огненный воин",
+"w": 358,
+"h": 460
+},
+"mini_sektant_voin": {
+"name": "мини сектант-воин",
+"w": 303,
+"h": 460
+},
+"moroznyy_zmey": {
+"name": "морозный змей",
+"w": 412,
+"h": 460
+},
+"mumiya_strazh_grobnicy": {
+"name": "мумия-страж гробницы",
+"w": 434,
+"h": 460
+},
+"mumiya_faraon": {
+"name": "мумия-фараон",
+"w": 374,
+"h": 460
+},
+"mumiya": {
+"name": "мумия",
+"w": 294,
+"h": 460
+},
+"mumya_zhrec": {
+"name": "мумя-жрец",
+"w": 422,
+"h": 460
+},
+"naemnik_veteran": {
+"name": "наемник-ветеран",
+"w": 371,
+"h": 460
+},
+"naemnik_ohotnik": {
+"name": "наемник-охотник",
+"w": 414,
+"h": 460
+},
+"nekromant": {
+"name": "некромант",
+"w": 416,
+"h": 460
+},
+"obychnyy_rycar": {
+"name": "обычный рыцарь",
+"w": 460,
+"h": 411
+},
+"ovca": {
+"name": "овца",
+"w": 460,
+"h": 431
+},
+"ognennyy_volk": {
+"name": "огненный волк",
+"w": 460,
+"h": 409
+},
+"oderzhimyy_voin": {
+"name": "одержимый воин",
+"w": 298,
+"h": 460
+},
+"oderzhimyy_rycar": {
+"name": "одержимый рыцарь",
+"w": 460,
+"h": 433
+},
+"odichavshiy_pes": {
+"name": "одичавший пес",
+"w": 459,
+"h": 460
+},
+"olen": {
+"name": "олень",
+"w": 325,
+"h": 460
+},
+"ohotnik_za_golovami": {
+"name": "охотник за головами",
+"w": 365,
+"h": 460
+},
+"padshiy_voin": {
+"name": "падший воин",
+"w": 323,
+"h": 460
+},
+"padshiy_paladin": {
+"name": "падший паладин",
+"w": 460,
+"h": 453
+},
+"palach": {
+"name": "палач",
+"w": 240,
+"h": 460
+},
+"panda": {
+"name": "панда",
+"w": 460,
+"h": 338
+},
+"peschannik": {
+"name": "песчанник",
+"w": 460,
+"h": 436
+},
+"peschannyy_gryzun": {
+"name": "песчанный грызун",
+"w": 411,
+"h": 460
+},
+"peschernyy_pauk": {
+"name": "пещерный паук",
+"w": 460,
+"h": 345
+},
+"polyarnyy_volk": {
+"name": "полярный волк",
+"w": 460,
+"h": 422
+},
+"popugay": {
+"name": "попугай",
+"w": 311,
+"h": 460
+},
+"prizrak_vedmy": {
+"name": "призрак ведьмы",
+"w": 289,
+"h": 460
+},
+"prizrak_voin": {
+"name": "призрак воин",
+"w": 404,
+"h": 460
+},
+"prizrak_korolya": {
+"name": "призрак короля",
+"w": 379,
+"h": 460
+},
+"prizrak_strannika": {
+"name": "призрак странника",
+"w": 298,
+"h": 460
+},
+"prizrak": {
+"name": "призрак",
+"w": 318,
+"h": 460
+},
+"proklyatyy_voin": {
+"name": "проклятый воин",
+"w": 414,
+"h": 460
+},
+"proklyatyy_mag": {
+"name": "проклятый маг",
+"w": 411,
+"h": 460
+},
+"proklyatyy_mertvec": {
+"name": "проклятый мертвец",
+"w": 390,
+"h": 460
+},
+"proklyatyy_rycar": {
+"name": "проклятый рыцарь",
+"w": 268,
+"h": 460
+},
+"proricatel": {
+"name": "прорицатель",
+"w": 346,
+"h": 460
+},
+"pchela": {
+"name": "пчела",
+"w": 460,
+"h": 444
+},
+"razboynik_luchnik": {
+"name": "разбойник лучник",
+"w": 460,
+"h": 450
+},
+"razboynik_arbaletchik_plemeni": {
+"name": "разбойник-арбалетчик племени",
+"w": 404,
+"h": 460
+},
+"razboynik_bandit": {
+"name": "разбойник-бандит",
+"w": 413,
+"h": 460
+},
+"razboynik_vor": {
+"name": "разбойник-вор",
+"w": 385,
+"h": 460
+},
+"razboynik_mechnik": {
+"name": "разбойник-мечник",
+"w": 414,
+"h": 460
+},
+"razboynik_ubiyca": {
+"name": "разбойник-убийца",
+"w": 441,
+"h": 460
+},
+"razboynik": {
+"name": "разбойник",
+"w": 460,
+"h": 452
+},
+"redkaya_zhaba": {
+"name": "редкая жаба",
+"w": 460,
+"h": 377
+},
+"runicheskiy_mag": {
+"name": "рунический маг",
+"w": 446,
+"h": 460
+},
+"ryba_bard": {
+"name": "рыба-бард",
+"w": 460,
+"h": 411
+},
+"rycar_ordena": {
+"name": "рыцарь ордена",
+"w": 442,
+"h": 460
+},
+"rycar_strazh": {
+"name": "рыцарь-страж",
+"w": 301,
+"h": 460
+},
+"samka_olenya": {
+"name": "самка оленя",
+"w": 332,
+"h": 460
+},
+"svinya": {
+"name": "свинья",
+"w": 460,
+"h": 320
+},
+"sektant_zhrec": {
+"name": "сектант-жрец",
+"w": 312,
+"h": 460
+},
+"sektant_oderzhimyy": {
+"name": "сектант-одержимый",
+"w": 283,
+"h": 460
+},
+"sektant": {
+"name": "сектант",
+"w": 293,
+"h": 460
+},
+"skelet_berserk": {
+"name": "скелет берсерк",
+"w": 460,
+"h": 406
+},
+"skelet_voin": {
+"name": "скелет-воин",
+"w": 403,
+"h": 460
+},
+"skelet_kopeyschik": {
+"name": "скелет-копейщик",
+"w": 278,
+"h": 460
+},
+"skelet_korol": {
+"name": "скелет-король",
+"w": 366,
+"h": 460
+},
+"skelet_luchnik": {
+"name": "скелет-лучник",
+"w": 319,
+"h": 460
+},
+"skelet_palach": {
+"name": "скелет-палач",
+"w": 380,
+"h": 460
+},
+"skelet_rycar": {
+"name": "скелет-рыцарь",
+"w": 392,
+"h": 460
+},
+"skelet_strazh": {
+"name": "скелет-страж",
+"w": 386,
+"h": 460
+},
+"skelet_schaman": {
+"name": "скелет-щаман",
+"w": 398,
+"h": 460
+},
+"skelet": {
+"name": "скелет",
+"w": 313,
+"h": 460
+},
+"skorpion": {
+"name": "скорпион",
+"w": 408,
+"h": 460
+},
+"snezhnyy_bars": {
+"name": "снежный барс",
+"w": 460,
+"h": 286
+},
+"starshaya_vedma": {
+"name": "старшая ведьма",
+"w": 344,
+"h": 460
+},
+"strazh_grobnicy": {
+"name": "страж гробницы",
+"w": 344,
+"h": 460
+},
+"strazh_ruin": {
+"name": "страж руин",
+"w": 460,
+"h": 433
+},
+"strazh_hrama": {
+"name": "страж храма",
+"w": 371,
+"h": 460
+},
+"surikat": {
+"name": "сурикат",
+"w": 241,
+"h": 460
+},
+"temnyy_zhrec": {
+"name": "темный жрец",
+"w": 429,
+"h": 460
+},
+"temnyy_ohotnik": {
+"name": "темный охотник",
+"w": 423,
+"h": 460
+},
+"temnyy_rycar": {
+"name": "темный рыцарь",
+"w": 411,
+"h": 460
+},
+"tenevoy_ubiyca": {
+"name": "теневой убийца",
+"w": 398,
+"h": 460
+},
+"ten_umershego": {
+"name": "тень умершего",
+"w": 311,
+"h": 460
+},
+"tropicheskaya_ryba": {
+"name": "тропическая рыба",
+"w": 460,
+"h": 372
+},
+"upyr": {
+"name": "упырь",
+"w": 326,
+"h": 460
+},
+"faraon": {
+"name": "фараон",
+"w": 460,
+"h": 431
+},
+"fenrir_zverinaya_forma": {
+"name": "фенрир - звериная форма",
+"w": 460,
+"h": 392
+},
+"feya_lesa": {
+"name": "фея леса",
+"w": 398,
+"h": 460
+},
+"charodey": {
+"name": "чародей",
+"w": 407,
+"h": 460
+},
+"chernyy_mag": {
+"name": "черный маг",
+"w": 343,
+"h": 460
+},
+"chernyy_rycar": {
+"name": "черный рыцарь",
+"w": 460,
+"h": 418
+},
+"shaman_plemeni": {
+"name": "шаман племени",
+"w": 451,
+"h": 460
+},
+"shaman": {
+"name": "шаман",
+"w": 458,
+"h": 460
+},
+"elektricheskiy_skat": {
+"name": "электрический скат",
+"w": 460,
+"h": 287
+},
+"yaguar": {
+"name": "ягуар",
+"w": 460,
+"h": 326
+}
+},
+"bosses": {
+"avatar_haosa": {
+"name": "аватар хаоса",
+"w": 640,
+"h": 408
+},
+"arhimag_haosa": {
+"name": "архимаг хаоса",
+"w": 640,
+"h": 621
+},
+"arhinekromant": {
+"name": "архинекромант",
+"w": 640,
+"h": 611
+},
+"bog_zabytyh": {
+"name": "бог забытых",
+"w": 640,
+"h": 518
+},
+"vedma_drevnego_lesa": {
+"name": "ведьма древнего леса",
+"w": 640,
+"h": 539
+},
+"vedma_ledyanoy_pustoshi": {
+"name": "ведьма ледяной пустоши",
+"w": 640,
+"h": 575
+},
+"verhovnaya_vedma": {
+"name": "верховная ведьма",
+"w": 561,
+"h": 640
+},
+"vladyka_bezdny": {
+"name": "владыка бездны",
+"w": 640,
+"h": 540
+},
+"voenachalnik_pustoshey": {
+"name": "военачальник пустошей",
+"w": 640,
+"h": 447
+},
+"vozhd_varvarov": {
+"name": "вождь варваров",
+"w": 640,
+"h": 553
+},
+"general_drevney_armii": {
+"name": "генерал древней армии",
+"w": 640,
+"h": 555
+},
+"glavar_kultistov": {
+"name": "главарь культистов",
+"w": 640,
+"h": 549
+},
+"golem_pozhiratel": {
+"name": "голем пожиратель",
+"w": 640,
+"h": 541
+},
+"drevnee_bozhestvo": {
+"name": "древнее божество",
+"w": 640,
+"h": 626
+},
+"drevniy_duh_lesa": {
+"name": "древний дух леса",
+"w": 640,
+"h": 438
+},
+"duh_pogibshego_korolestva": {
+"name": "дух погибшего королества",
+"w": 640,
+"h": 539
+},
+"zhrec_drevnego_bozhestva": {
+"name": "жрец древнего божества",
+"w": 640,
+"h": 528
+},
+"kamennyy_koloss": {
+"name": "каменный колосс",
+"w": 640,
+"h": 461
+},
+"kapitan_chernyh_rycarey": {
+"name": "капитан черных рыцарей",
+"w": 592,
+"h": 640
+},
+"korol_mertvecov": {
+"name": "король мертвецов",
+"w": 640,
+"h": 518
+},
+"korol_proklyatyh": {
+"name": "король проклятых",
+"w": 640,
+"h": 521
+},
+"korol_razboynikov": {
+"name": "король разбойников",
+"w": 640,
+"h": 531
+},
+"korol_skeletov": {
+"name": "король скелетов",
+"w": 640,
+"h": 616
+},
+"kostyanoy_koloss": {
+"name": "костяной колосс",
+"w": 640,
+"h": 503
+},
+"ledyanoy_titan": {
+"name": "ледяной титан",
+"w": 640,
+"h": 473
+},
+"lich_povelitel": {
+"name": "лич-повелитель",
+"w": 640,
+"h": 573
+},
+"mag_drevnih_run": {
+"name": "маг древних рун",
+"w": 640,
+"h": 538
+},
+"nekromant_drevnego_kladbischa": {
+"name": "некромант древнего кладбища",
+"w": 634,
+"h": 640
+},
+"ognennyy_titan": {
+"name": "огненный титан",
+"w": 640,
+"h": 524
+},
+"padshee_bozhestvo": {
+"name": "падшее божество",
+"w": 640,
+"h": 476
+},
+"padshiy_paladin": {
+"name": "падший паладин",
+"w": 640,
+"h": 474
+},
+"palach_proklyatyh": {
+"name": "палач проклятых",
+"w": 640,
+"h": 520
+},
+"povelitel_prizrakov": {
+"name": "повелитель призраков",
+"w": 640,
+"h": 571
+},
+"povelitel_proklyatiy": {
+"name": "повелитель проклятий",
+"w": 640,
+"h": 464
+},
+"povelitel_teney": {
+"name": "повелитель теней",
+"w": 640,
+"h": 488
+},
+"posledniy_rycar": {
+"name": "последний рыцарь",
+"w": 640,
+"h": 472
+},
+"proklyatyy_orakul": {
+"name": "проклятый оракул",
+"w": 640,
+"h": 505
+},
+"razrushitel_mirov": {
+"name": "разрушитель миров",
+"w": 640,
+"h": 520
+},
+"runicheskiy_golem": {
+"name": "рунический голем",
+"w": 640,
+"h": 505
+},
+"rycar_smerti": {
+"name": "рыцарь смерти",
+"w": 640,
+"h": 456
+},
+"serdce_drevnego_mira": {
+"name": "сердце древнего мира",
+"w": 556,
+"h": 640
+},
+"strazh_zabytogo_hrama": {
+"name": "страж забытого храма",
+"w": 640,
+"h": 555
+},
+"temnyy_imperator": {
+"name": "темный император",
+"w": 640,
+"h": 512
+},
+"titan_pustoshey": {
+"name": "титан пустошей",
+"w": 640,
+"h": 528
+},
+"faraon_proklyatoy_grobnicy": {
+"name": "фараон проклятой гробницы",
+"w": 640,
+"h": 559
+},
+"hranitel_bezdny": {
+"name": "хранитель бездны",
+"w": 634,
+"h": 640
+},
+"hranitel_mirovogo_dereva": {
+"name": "хранитель мирового дерева",
+"w": 640,
+"h": 618
+},
+"chempion_areny": {
+"name": "чемпион арены",
+"w": 640,
+"h": 448
+},
+"shaman_zabytogo_plemeni": {
+"name": "шаман забытого племени",
+"w": 640,
+"h": 495
+}
+},
+"npc": {
+"arhitektor_drevnego_mira": {
+"name": "архитектор древнего мира",
+"w": 401,
+"h": 420
+},
+"voin_bez_imeni": {
+"name": "воин без имени",
+"w": 392,
+"h": 420
+},
+"geroy_drevney_voyny": {
+"name": "герой древней войны",
+"w": 339,
+"h": 420
+},
+"drevniy_voitel": {
+"name": "древний воитель",
+"w": 356,
+"h": 420
+},
+"drevniy_prorok": {
+"name": "древний пророк",
+"w": 324,
+"h": 420
+},
+"izbrannyy_hranitel": {
+"name": "избранный хранитель",
+"w": 315,
+"h": 420
+},
+"izgnannyy_bog": {
+"name": "изгнанный бог",
+"w": 305,
+"h": 420
+},
+"koroleva_drevnego_korolestva": {
+"name": "королева древнего королества",
+"w": 339,
+"h": 420
+},
+"korol_drevnego_korolestva": {
+"name": "король древнего королества",
+"w": 356,
+"h": 420
+},
+"master_drevnih_run": {
+"name": "мастер древних рун",
+"w": 361,
+"h": 420
+},
+"nastavnik_geroya": {
+"name": "наставник героя",
+"w": 345,
+"h": 420
+},
+"nositel_drevnego_artifakta": {
+"name": "носитель древнего артифакта",
+"w": 362,
+"h": 420
+},
+"nositel_drevnego_proklyatiya": {
+"name": "носитель древнего проклятия",
+"w": 369,
+"h": 420
+},
+"osnovatel_ordena": {
+"name": "основатель ордена",
+"w": 338,
+"h": 420
+},
+"padshiy_angel": {
+"name": "падший ангел",
+"w": 397,
+"h": 420
+},
+"pervaya_vedma": {
+"name": "первая ведьма",
+"w": 348,
+"h": 420
+},
+"pervyy_korol": {
+"name": "первый король",
+"w": 358,
+"h": 420
+},
+"pervyy_nekromant": {
+"name": "первый некромант",
+"w": 420,
+"h": 382
+},
+"povelitel_zabytyh_zemel": {
+"name": "повелитель забытых земель",
+"w": 326,
+"h": 420
+},
+"poslannik_bezdny": {
+"name": "посланник бездны",
+"w": 338,
+"h": 420
+},
+"poslannik_drevnih_bogov": {
+"name": "посланник древних богов",
+"w": 355,
+"h": 420
+},
+"posledniy_alhimik": {
+"name": "последний алхимик",
+"w": 341,
+"h": 420
+},
+"posledniy_paladin": {
+"name": "последний паладин",
+"w": 420,
+"h": 373
+},
+"predatel_korolevstva": {
+"name": "предатель королевства",
+"w": 391,
+"h": 420
+},
+"proklyatyy_geroy": {
+"name": "проклятый герой",
+"w": 282,
+"h": 420
+},
+"proklyatyy_naslednik": {
+"name": "проклятый наследник",
+"w": 325,
+"h": 420
+},
+"prorok_konca_sveta": {
+"name": "пророк конца света",
+"w": 322,
+"h": 420
+},
+"puteshestvennik_vremeni": {
+"name": "путешественник времени",
+"w": 349,
+"h": 420
+},
+"rycar_posledney_nadzhedy": {
+"name": "рыцарь последней наджеды",
+"w": 416,
+"h": 420
+},
+"sobiratel_dush": {
+"name": "собиратель душ",
+"w": 345,
+"h": 420
+},
+"sozdatel_golemov": {
+"name": "создатель големов",
+"w": 420,
+"h": 417
+},
+"strannik_mezhdu_mirami": {
+"name": "странник между мирами",
+"w": 351,
+"h": 420
+},
+"sudya_dush": {
+"name": "судья душ",
+"w": 420,
+"h": 383
+},
+"hranitel_drevnih_znaniy": {
+"name": "хранитель древних знаний",
+"w": 410,
+"h": 420
+},
+"hranitel_zapretnoy_beblioteki": {
+"name": "хранитель запретной беблиотеки",
+"w": 357,
+"h": 420
+},
+"hranitel_pechati": {
+"name": "хранитель печати",
+"w": 350,
+"h": 420
+}
+},
+"obj": {
+"aloe": {
+"name": "Алоэ",
+"w": 350,
+"h": 384
+},
+"arena_surta": {
+"name": "Арена Сурта",
+"w": 384,
+"h": 306
+},
+"ballista": {
+"name": "Баллиста",
+"w": 364,
+"h": 384
+},
+"bambukovye_doski": {
+"name": "Бамбуковые доски",
+"w": 384,
+"h": 344
+},
+"bashnya_zaryada": {
+"name": "Башня заряда",
+"w": 201,
+"h": 384
+},
+"bashnya_strelkov": {
+"name": "Башня стрелков",
+"w": 239,
+"h": 384
+},
+"velikaya_kuznica": {
+"name": "Великая кузница",
+"w": 384,
+"h": 330
+},
+"voronka_bivresta": {
+"name": "Воронка Биврёста",
+"w": 384,
+"h": 341
+},
+"vyzhzhennaya_zemlya": {
+"name": "Выжженная земля",
+"w": 384,
+"h": 344
+},
+"gladkiy_krasnyy_peschanik": {
+"name": "Гладкий красный песчаник",
+"w": 384,
+"h": 312
+},
+"glina": {
+"name": "Глина",
+"w": 384,
+"h": 346
+},
+"glinyanyy_blok": {
+"name": "Глиняный блок",
+"w": 374,
+"h": 384
+},
+"gnomi_shahty": {
+"name": "Гномьи шахты",
+"w": 366,
+"h": 384
+},
+"grozovaya_vershina": {
+"name": "Грозовая вершина",
+"w": 335,
+"h": 384
+},
+"doma_na_derevyah": {
+"name": "Дома на деревьях",
+"w": 307,
+"h": 384
+},
+"doski": {
+"name": "Доски",
+"w": 384,
+"h": 330
+},
+"zheleznaya_ruda_blok_v_mire": {
+"name": "Железная руда — блок в мире",
+"w": 340,
+"h": 384
+},
+"zheleznaya_ruda_neobrabotannyy_resurs": {
+"name": "Железная руда — необработанный ресурс",
+"w": 384,
+"h": 378
+},
+"zheleznaya_slitok_pereplavlennyy_metall": {
+"name": "Железная слиток — переплавленный металл",
+"w": 384,
+"h": 256
+},
+"zahvachennye_ruiny": {
+"name": "Захваченные руины",
+"w": 384,
+"h": 362
+},
+"zele_sily": {
+"name": "Зелье силы",
+"w": 230,
+"h": 384
+},
+"zele_udachi": {
+"name": "Зелье удачи",
+"w": 221,
+"h": 384
+},
+"zolotaya_ruda_neobrabotannyy_resurs": {
+"name": "Золотая руда — необработанный ресурс",
+"w": 368,
+"h": 384
+},
+"zolotaya_slitok_pereplavlennyy_metall": {
+"name": "Золотая слиток — переплавленный металл",
+"w": 384,
+"h": 286
+},
+"zolotoy_oskolok_kvestovyy": {
+"name": "Золотой осколок — квестовый",
+"w": 274,
+"h": 384
+},
+"kamennye_kirpichi": {
+"name": "Каменные кирпичи",
+"w": 384,
+"h": 318
+},
+"kamen_posle_plavki": {
+"name": "Камень после плавки",
+"w": 384,
+"h": 332
+},
+"akkumulyatornaya_bashnya": {
+"name": "аккумуляторная башня",
+"w": 197,
+"h": 384
+},
+"aloe_plod": {
+"name": "алоэ плод",
+"w": 384,
+"h": 268
+},
+"altar_run": {
+"name": "алтарь рун",
+"w": 384,
+"h": 314
+},
+"ambroziya": {
+"name": "амброзия",
+"w": 384,
+"h": 315
+},
+"ananas": {
+"name": "ананас",
+"w": 234,
+"h": 384
+},
+"bambuk_kust": {
+"name": "бамбук куст",
+"w": 134,
+"h": 384
+},
+"bambuk_resurs": {
+"name": "бамбук ресурс",
+"w": 384,
+"h": 373
+},
+"bananovaya_palma_bez_plodov": {
+"name": "банановая пальма без плодов",
+"w": 370,
+"h": 384
+},
+"bananovaya_palma_s_plodami": {
+"name": "банановая пальма с плодами",
+"w": 370,
+"h": 384
+},
+"banany": {
+"name": "бананы",
+"w": 384,
+"h": 377
+},
+"belaya_yagoda": {
+"name": "белая ягода",
+"w": 341,
+"h": 384
+},
+"bereza1": {
+"name": "береза1",
+"w": 189,
+"h": 384
+},
+"bereza2": {
+"name": "береза2",
+"w": 179,
+"h": 384
+},
+"bereza3": {
+"name": "береза3",
+"w": 202,
+"h": 384
+},
+"bint": {
+"name": "бинт",
+"w": 384,
+"h": 303
+},
+"boezapas_valun": {
+"name": "боезапас - валун",
+"w": 369,
+"h": 384
+},
+"boezapas_yadovityy_gorshok": {
+"name": "боезапас - ядовитый горшок",
+"w": 301,
+"h": 384
+},
+"boezapas_goryaschiy_valun": {
+"name": "боезапас -горящий валун",
+"w": 348,
+"h": 384
+},
+"botinki_krysolov": {
+"name": "ботинки крысолов",
+"w": 369,
+"h": 384
+},
+"botinki": {
+"name": "ботинки",
+"w": 315,
+"h": 384
+},
+"bochka_vzryvchatogo_peska": {
+"name": "бочка взрывчатого песка",
+"w": 269,
+"h": 384
+},
+"bochka": {
+"name": "бочка",
+"w": 294,
+"h": 384
+},
+"brevna": {
+"name": "бревна",
+"w": 384,
+"h": 318
+},
+"bronya_iz_zolota_asgarda": {
+"name": "броня из золота асгарда",
+"w": 214,
+"h": 384
+},
+"bronya_liannogo_strazha": {
+"name": "броня лианного стража",
+"w": 187,
+"h": 384
+},
+"bronya_faraona": {
+"name": "броня фараона",
+"w": 209,
+"h": 384
+},
+"bulyzhnik": {
+"name": "булыжник",
+"w": 384,
+"h": 351
+},
+"bumerang_plemeni": {
+"name": "бумеранг племени",
+"w": 384,
+"h": 276
+},
+"bumerang": {
+"name": "бумеранг",
+"w": 327,
+"h": 384
+},
+"butylka_s_ehom_resurs": {
+"name": "бутылка с эхом - ресурс",
+"w": 245,
+"h": 384
+},
+"butylka_s_ehom_yormunganda": {
+"name": "бутылка с эхом Йормунганда",
+"w": 237,
+"h": 384
+},
+"velikanskaya_el": {
+"name": "великанская ель",
+"w": 221,
+"h": 384
+},
+"velikaya_kuzneca": {
+"name": "великая кузнеца",
+"w": 384,
+"h": 316
+},
+"verstak": {
+"name": "верстак",
+"w": 384,
+"h": 382
+},
+"vechnyy_led": {
+"name": "вечный лед",
+"w": 348,
+"h": 384
+},
+"vishnya": {
+"name": "вишня",
+"w": 363,
+"h": 384
+},
+"volokno": {
+"name": "волокно",
+"w": 384,
+"h": 367
+},
+"voronka_bivresta_struktura_vrode": {
+"name": "воронка бивреста структура вроде",
+"w": 384,
+"h": 341
+},
+"voronka_bivresta_2": {
+"name": "воронка бивреста",
+"w": 384,
+"h": 288
+},
+"vorota_zheleznye_zakryty_stop_kadr": {
+"name": "ворота железные закрыты стоп кадр",
+"w": 312,
+"h": 384
+},
+"vorota_zakryvayutsya_animaciya": {
+"name": "ворота закрываются анимация",
+"w": 312,
+"h": 384
+},
+"vorota_otkryvayutsya_animaciya": {
+"name": "ворота открываются анимация",
+"w": 312,
+"h": 384
+},
+"vorota_otkryty_stop_kadr": {
+"name": "ворота открыты, стоп кадр",
+"w": 312,
+"h": 384
+},
+"vosk": {
+"name": "воск",
+"w": 384,
+"h": 337
+},
+"vspahannaya_gryad_tayl": {
+"name": "вспаханная грядь тайл",
+"w": 384,
+"h": 269
+},
+"vspahannaya_gryad": {
+"name": "вспаханная грядь",
+"w": 384,
+"h": 331
+},
+"vyzhzhenaya_zemlya": {
+"name": "выжженая земля",
+"w": 363,
+"h": 384
+},
+"gigantskiy_kamen": {
+"name": "гигантский камень",
+"w": 360,
+"h": 384
+},
+"glaza_karty_bioma": {
+"name": "глаза карты биома",
+"w": 384,
+"h": 217
+},
+"gnezdo_orla": {
+"name": "гнездо орла",
+"w": 286,
+"h": 384
+},
+"gniloe_myaso": {
+"name": "гнилое мясо",
+"w": 384,
+"h": 323
+},
+"gnil": {
+"name": "гниль",
+"w": 382,
+"h": 384
+},
+"gnomya_shahta_modul": {
+"name": "гномья шахта - модуль",
+"w": 384,
+"h": 318
+},
+"govoryaschiy_cherep_helheyma": {
+"name": "говорящий череп Хельхейма",
+"w": 259,
+"h": 384
+},
+"goluboy_led": {
+"name": "голубой лед",
+"w": 384,
+"h": 357
+},
+"gornyy_pereval": {
+"name": "горный перевал",
+"w": 384,
+"h": 339
+},
+"gorshok_dlya_cvetov": {
+"name": "горшок для цветов",
+"w": 364,
+"h": 384
+},
+"grib_eda": {
+"name": "гриб - еда",
+"w": 305,
+"h": 384
+},
+"grib_velikana": {
+"name": "гриб великана",
+"w": 384,
+"h": 354
+},
+"gribnoy_hleb_gnomov": {
+"name": "грибной хлеб гномов",
+"w": 384,
+"h": 333
+},
+"griby": {
+"name": "грибы",
+"w": 321,
+"h": 384
+},
+"dver_hranilischa": {
+"name": "дверь хранилища",
+"w": 384,
+"h": 377
+},
+"derevenyannyy_stroitelnyy_blok": {
+"name": "деревенянный строительный блок",
+"w": 350,
+"h": 384
+},
+"derevo_2": {
+"name": "дерево 2",
+"w": 206,
+"h": 384
+},
+"derevo_3": {
+"name": "дерево 3",
+"w": 384,
+"h": 329
+},
+"derevo_4": {
+"name": "дерево 4",
+"w": 361,
+"h": 384
+},
+"derevo_5": {
+"name": "дерево 5",
+"w": 302,
+"h": 384
+},
+"derevo1": {
+"name": "дерево1",
+"w": 384,
+"h": 374
+},
+"dzhunglievoe_derevo": {
+"name": "джунглиевое дерево",
+"w": 286,
+"h": 384
+},
+"dikie_travy_rastuschaya_kultura": {
+"name": "дикие травы - растущая культура",
+"w": 301,
+"h": 384
+},
+"dikie_travy_puchok": {
+"name": "дикие травы пучок",
+"w": 297,
+"h": 384
+},
+"dikie_travy_rastuschie": {
+"name": "дикие травы растущие",
+"w": 282,
+"h": 384
+},
+"dikie_travy_sobrannye": {
+"name": "дикие травы собранные",
+"w": 338,
+"h": 384
+},
+"dubina_iz_kosti_mamonta": {
+"name": "дубина из кости мамонта",
+"w": 249,
+"h": 384
+},
+"el": {
+"name": "ель",
+"w": 246,
+"h": 384
+},
+"zhalo": {
+"name": "жало",
+"w": 277,
+"h": 384
+},
+"zharenaya_ryba": {
+"name": "жареная рыба",
+"w": 384,
+"h": 213
+},
+"zharenoe_myaso_kabana": {
+"name": "жареное мясо  кабана",
+"w": 384,
+"h": 372
+},
+"zharenoe_myaso_anakondy": {
+"name": "жареное мясо анаконды",
+"w": 384,
+"h": 216
+},
+"zharenoe_myaso_barsa": {
+"name": "жареное мясо барса",
+"w": 384,
+"h": 207
+},
+"zharenoe_myaso_verblyuda": {
+"name": "жареное мясо верблюда",
+"w": 384,
+"h": 365
+},
+"zharenoe_myaso_grifa": {
+"name": "жареное мясо грифа",
+"w": 384,
+"h": 324
+},
+"zharenoe_myaso_gryzuna": {
+"name": "жареное мясо грызуна",
+"w": 384,
+"h": 249
+},
+"zharenoe_myaso_kozla": {
+"name": "жареное мясо козла",
+"w": 384,
+"h": 293
+},
+"zharenoe_myaso_kraba": {
+"name": "жареное мясо краба",
+"w": 384,
+"h": 342
+},
+"zharenoe_myaso_krokodila": {
+"name": "жареное мясо крокодила",
+"w": 384,
+"h": 212
+},
+"zharenoe_myaso_krolika": {
+"name": "жареное мясо кролика",
+"w": 384,
+"h": 254
+},
+"zharenoe_myaso_kuricy": {
+"name": "жареное мясо курицы",
+"w": 364,
+"h": 384
+},
+"zharenoe_myaso_lisy": {
+"name": "жареное мясо лисы",
+"w": 384,
+"h": 328
+},
+"zharenoe_myaso_mamonta": {
+"name": "жареное мясо мамонта",
+"w": 384,
+"h": 335
+},
+"zharenoe_myaso_medvedya": {
+"name": "жареное мясо медведя",
+"w": 384,
+"h": 344
+},
+"zharenoe_myaso_moroznogo_zmeya": {
+"name": "жареное мясо морозного змея",
+"w": 289,
+"h": 384
+},
+"zharenoe_myaso_obezyany": {
+"name": "жареное мясо обезьяны",
+"w": 384,
+"h": 310
+},
+"zharenoe_myaso_ovcy": {
+"name": "жареное мясо овцы",
+"w": 384,
+"h": 324
+},
+"zharenoe_myaso_ognenogo_volka": {
+"name": "жареное мясо огненого волка",
+"w": 384,
+"h": 246
+},
+"zharenoe_myaso_olenya": {
+"name": "жареное мясо оленя",
+"w": 384,
+"h": 236
+},
+"zharenoe_myaso_orla": {
+"name": "жареное мясо орла",
+"w": 292,
+"h": 384
+},
+"zharenoe_myaso_polyarnogo_volka": {
+"name": "жареное мясо полярного волка",
+"w": 384,
+"h": 217
+},
+"zharenoe_myaso_svini": {
+"name": "жареное мясо свиньи",
+"w": 384,
+"h": 248
+},
+"zharenoe_myaso_surikata": {
+"name": "жареное мясо суриката",
+"w": 365,
+"h": 384
+},
+"zharenoe_myaso_yaguara": {
+"name": "жареное мясо ягуара",
+"w": 384,
+"h": 271
+},
+"zharenye_zerna_kukuruzy": {
+"name": "жареные зерна кукурузы",
+"w": 384,
+"h": 329
+},
+"zharfefnoe_myaso_psa": {
+"name": "жарфефное мясо пса",
+"w": 384,
+"h": 328
+},
+"zheleznaya_glyba": {
+"name": "железная глыба",
+"w": 384,
+"h": 358
+},
+"zheleznaya_kirka": {
+"name": "железная кирка",
+"w": 318,
+"h": 384
+},
+"zheleznaya_ruda": {
+"name": "железная руда",
+"w": 384,
+"h": 360
+},
+"zheleznye_strely": {
+"name": "железные стрелы",
+"w": 384,
+"h": 381
+},
+"zheleznyy_komplekt": {
+"name": "железный комплект",
+"w": 210,
+"h": 384
+},
+"zheleznyy_slitok": {
+"name": "железный слиток",
+"w": 384,
+"h": 286
+},
+"zheleznyy_stroitelnyy_blok": {
+"name": "железный строительный блок",
+"w": 365,
+"h": 384
+},
+"zheleznyy_topor": {
+"name": "железный топор",
+"w": 251,
+"h": 384
+},
+"zheltyy_krasitel": {
+"name": "желтый краситель",
+"w": 384,
+"h": 248
+},
+"zametki_kuzneca_gnomov": {
+"name": "заметки кузнеца гномов",
+"w": 384,
+"h": 372
+},
+"zamok_razboynikov": {
+"name": "замок разбойников",
+"w": 354,
+"h": 384
+},
+"zamok": {
+"name": "замок",
+"w": 326,
+"h": 384
+},
+"zanaves": {
+"name": "занавес",
+"w": 246,
+"h": 384
+},
+"zapiska_iz_sunduka": {
+"name": "записка из сундука",
+"w": 384,
+"h": 321
+},
+"zapiska_ohotnika": {
+"name": "записка охотника",
+"w": 358,
+"h": 384
+},
+"zapis_vanov": {
+"name": "запись ванов",
+"w": 282,
+"h": 384
+},
+"zaryad": {
+"name": "заряд",
+"w": 210,
+"h": 384
+},
+"zveno_cepi": {
+"name": "звено цепи",
+"w": 273,
+"h": 384
+},
+"zelenyy_krasitel": {
+"name": "зеленый краситель",
+"w": 384,
+"h": 229
+},
+"zele_bystrogo_razrusheniya": {
+"name": "зелье быстрого разрушения",
+"w": 216,
+"h": 384
+},
+"zele_zaschity_ot_skverny": {
+"name": "зелье защиты от Скверны",
+"w": 221,
+"h": 384
+},
+"zele_levitacii": {
+"name": "зелье левитации",
+"w": 207,
+"h": 384
+},
+"zele_lecheniya": {
+"name": "зелье лечения",
+"w": 266,
+"h": 384
+},
+"zele_morozoustoychivosti": {
+"name": "зелье морозоустойчивости",
+"w": 248,
+"h": 384
+},
+"zele_nochnogo_zreniya": {
+"name": "зелье ночного зрения",
+"w": 207,
+"h": 384
+},
+"zele_ognestoykosti_2": {
+"name": "зелье огнестойкости 2",
+"w": 245,
+"h": 384
+},
+"zele_ognestoykosti": {
+"name": "зелье огнестойкости",
+"w": 260,
+"h": 384
+},
+"zele_podvodnogo_dyhaniya": {
+"name": "зелье подводного дыхания",
+"w": 221,
+"h": 384
+},
+"zele_psi_zaschity": {
+"name": "зелье пси-защиты",
+"w": 249,
+"h": 384
+},
+"zele_skorosti": {
+"name": "зелье скорости",
+"w": 151,
+"h": 384
+},
+"zele_tverdoy_kozhi": {
+"name": "зелье твердой кожи",
+"w": 246,
+"h": 384
+},
+"zelevarka_ne_nuzhnyy_asset": {
+"name": "зельеварка не нужный ассет",
+"w": 281,
+"h": 384
+},
+"zelevarka": {
+"name": "зельеварка",
+"w": 258,
+"h": 384
+},
+"zerna_kukuruzy": {
+"name": "зерна кукурузы",
+"w": 384,
+"h": 287
+},
+"zerna_ogurcov": {
+"name": "зерна огурцов",
+"w": 384,
+"h": 259
+},
+"zerna_tykvy": {
+"name": "зерна тыквы",
+"w": 384,
+"h": 273
+},
+"zimnie_yagody": {
+"name": "зимние ягоды",
+"w": 384,
+"h": 377
+},
+"zimniy_chay": {
+"name": "зимний чай",
+"w": 384,
+"h": 337
+},
+"zimnyaya_yagoda": {
+"name": "зимняя ягода",
+"w": 384,
+"h": 354
+},
+"zloveschiy_glaz_pauka": {
+"name": "зловещий глаз паука",
+"w": 366,
+"h": 384
+},
+"znamya": {
+"name": "знамя",
+"w": 234,
+"h": 384
+},
+"zolotaya_maska_faraona_predmet": {
+"name": "золотая маска фараона - предмет",
+"w": 309,
+"h": 384
+},
+"zolotaya_maska": {
+"name": "золотая маска",
+"w": 304,
+"h": 384
+},
+"zolotaya_ruda": {
+"name": "золотая руда",
+"w": 362,
+"h": 384
+},
+"zolotaya_sliz": {
+"name": "золотая слизь",
+"w": 384,
+"h": 331
+},
+"zolotoe_yabloko": {
+"name": "золотое яблоко",
+"w": 295,
+"h": 384
+},
+"zolotoy_klinok_eynheriya": {
+"name": "золотой клинок эйнхерия",
+"w": 193,
+"h": 384
+},
+"zolotoy_oskolok": {
+"name": "золотой осколок",
+"w": 381,
+"h": 384
+},
+"zolotoy_samorodok": {
+"name": "золотой самородок",
+"w": 376,
+"h": 384
+},
+"zolotoy_slitok": {
+"name": "золотой слиток",
+"w": 384,
+"h": 284
+},
+"zolotye_oblomki": {
+"name": "золотые обломки",
+"w": 384,
+"h": 377
+},
+"zub_krokodila": {
+"name": "зуб крокодила",
+"w": 355,
+"h": 384
+},
+"igly_ezha": {
+"name": "иглы ежа",
+"w": 384,
+"h": 342
+},
+"kakao_zerna": {
+"name": "какао зерна",
+"w": 384,
+"h": 241
+},
+"kakao_palma_bez_plodov": {
+"name": "какао пальма без плодов",
+"w": 384,
+"h": 377
+},
+"kakao_palmy_spelaya": {
+"name": "какао пальмы спелая",
+"w": 384,
+"h": 377
+},
+"kakao_napitok": {
+"name": "какао(напиток)",
+"w": 384,
+"h": 342
+},
+"kakao_zerna_2": {
+"name": "какао-зерна",
+"w": 384,
+"h": 304
+},
+"kakao": {
+"name": "какао",
+"w": 384,
+"h": 355
+},
+"kaktus_1": {
+"name": "кактус 1",
+"w": 384,
+"h": 381
+},
+"kaktus2": {
+"name": "кактус2",
+"w": 199,
+"h": 384
+},
+"kaktus3": {
+"name": "кактус3",
+"w": 272,
+"h": 384
+},
+"kaktusovyy_chay": {
+"name": "кактусовый чай",
+"w": 384,
+"h": 376
+},
+"kamennaya_dubina": {
+"name": "каменная дубина",
+"w": 202,
+"h": 384
+},
+"kamennyy_mech": {
+"name": "каменный меч",
+"w": 183,
+"h": 384
+},
+"kamennyy_nozh": {
+"name": "каменный нож",
+"w": 384,
+"h": 359
+},
+"kamen_vozvrata": {
+"name": "камень возврата",
+"w": 347,
+"h": 384
+},
+"kamen_ochaga": {
+"name": "камень очага",
+"w": 384,
+"h": 384
+},
+"kamen": {
+"name": "камень",
+"w": 384,
+"h": 321
+},
+"kamen1": {
+"name": "камень1",
+"w": 384,
+"h": 361
+},
+"kamen2": {
+"name": "камень2",
+"w": 143,
+"h": 384
+},
+"kamen3": {
+"name": "камень3",
+"w": 384,
+"h": 168
+},
+"kamen4": {
+"name": "камень4",
+"w": 379,
+"h": 384
+},
+"kamen5": {
+"name": "камень5",
+"w": 384,
+"h": 282
+},
+"kamen6": {
+"name": "камень6",
+"w": 384,
+"h": 224
+},
+"karp": {
+"name": "карп",
+"w": 384,
+"h": 321
+},
+"karta_mira": {
+"name": "карта мира",
+"w": 384,
+"h": 262
+},
+"katapulta": {
+"name": "катапульта",
+"w": 384,
+"h": 276
+},
+"kirpich": {
+"name": "Кирпич",
+"w": 384,
+"h": 314
+},
+"kirpichnyy_blok_krasnye_kirpichi": {
+"name": "Кирпичный блок(красные кирпичи)",
+"w": 378,
+"h": 384
+},
+"kolca_ermunganda_kostyanaya_arka": {
+"name": "Кольца Ёрмунганда -костяная арка",
+"w": 384,
+"h": 256
+},
+"kostyanaya_muka": {
+"name": "Костяная мука",
+"w": 384,
+"h": 233
+},
+"kostyanaya_shahta": {
+"name": "Костяная шахта",
+"w": 384,
+"h": 359
+},
+"krasnaya_yagoda": {
+"name": "Красная ягода",
+"w": 384,
+"h": 368
+},
+"krasnyy_pesok": {
+"name": "Красный песок",
+"w": 384,
+"h": 179
+},
+"kristall_skverny": {
+"name": "Кристалл скверны",
+"w": 212,
+"h": 384
+},
+"kuznica_ognya_struktura": {
+"name": "Кузница Огня(структура)",
+"w": 384,
+"h": 379
+},
+"kucha_gliny": {
+"name": "Куча глины",
+"w": 384,
+"h": 249
+},
+"lavovye_shahty": {
+"name": "Лавовые шахты",
+"w": 384,
+"h": 354
+},
+"ledyanoy_kurgan": {
+"name": "Ледяной курган",
+"w": 384,
+"h": 339
+},
+"magmatitovaya_ruda_blok_v_mire": {
+"name": "Магматитовая руда — блок в мире",
+"w": 355,
+"h": 384
+},
+"magmatitovaya_ruda_neobrabotannyy_resurs": {
+"name": "Магматитовая руда — необработанный ресурс",
+"w": 319,
+"h": 384
+},
+"magmatitovaya_slitok_pereplavlennyy_metall": {
+"name": "Магматитовая слиток — переплавленный металл",
+"w": 384,
+"h": 289
+},
+"masterskaya_eytri": {
+"name": "Мастерская Эйтри",
+"w": 384,
+"h": 308
+},
+"mednaya_ruda_blok_v_mire": {
+"name": "Медная руда — блок в мире",
+"w": 345,
+"h": 384
+},
+"mednaya_ruda_neobrabotannyy_resurs": {
+"name": "Медная руда — необработанный ресурс",
+"w": 384,
+"h": 350
+},
+"mednaya_slitok_pereplavlennyy_metall": {
+"name": "Медная слиток — переплавленный металл",
+"w": 384,
+"h": 269
+},
+"nekropol_modul": {
+"name": "Некрополь - модуль",
+"w": 384,
+"h": 327
+},
+"nekropol": {
+"name": "Некрополь",
+"w": 350,
+"h": 384
+},
+"obsidianovaya_krepost_modul": {
+"name": "Обсидиановая крепость - модуль",
+"w": 355,
+"h": 384
+},
+"obsidianovaya_krepost": {
+"name": "Обсидиановая крепость",
+"w": 359,
+"h": 384
+},
+"obsidianovaya_ruda_blok_v_mire": {
+"name": "Обсидиановая руда — блок в мире",
+"w": 349,
+"h": 384
+},
+"obsidianovaya_ruda_neobrabotannyy_resurs": {
+"name": "Обсидиановая руда — необработанный ресурс",
+"w": 370,
+"h": 384
+},
+"obsidianovaya_slitok_pereplavlennyy_metall": {
+"name": "Обсидиановая слиток — переплавленный металл",
+"w": 384,
+"h": 302
+},
+"oskolok_bivresta": {
+"name": "Осколок Биврёста",
+"w": 186,
+"h": 384
+},
+"ochischennoe_brevno": {
+"name": "Очищенное бревно",
+"w": 384,
+"h": 274
+},
+"palki_iz_bambuka": {
+"name": "Палки из бамбука",
+"w": 256,
+"h": 384
+},
+"paryaschiy_dvorec": {
+"name": "Парящий дворец",
+"w": 283,
+"h": 384
+},
+"pesok": {
+"name": "Песок",
+"w": 384,
+"h": 227
+},
+"peschanaya_derevnya_dom": {
+"name": "Песчаная деревня дом",
+"w": 384,
+"h": 346
+},
+"peschanaya_piramida": {
+"name": "Песчаная пирамида",
+"w": 384,
+"h": 312
+},
+"peschanye_kopi": {
+"name": "Песчаные копи",
+"w": 384,
+"h": 319
+},
+"podemnik": {
+"name": "Подъёмник",
+"w": 273,
+"h": 384
+},
+"puzyrek": {
+"name": "Пузырёк",
+"w": 227,
+"h": 384
+},
+"rzhavaya_ruda_blok_v_mire": {
+"name": "Ржавая руда — блок в мире",
+"w": 343,
+"h": 384
+},
+"rzhavaya_ruda_neobrabotannyy_resurs": {
+"name": "Ржавая руда — необработанный ресурс",
+"w": 384,
+"h": 380
+},
+"rzhavaya_slitok_pereplavlennyy_metall": {
+"name": "Ржавая слиток — переплавленный металл",
+"w": 384,
+"h": 273
+},
+"katyaschiysya_valun": {
+"name": "катящийся валун",
+"w": 384,
+"h": 379
+},
+"kirka": {
+"name": "кирка",
+"w": 313,
+"h": 384
+},
+"kirpichnyy_blok": {
+"name": "кирпичный блок",
+"w": 371,
+"h": 384
+},
+"klever_rastuschaya_kultura": {
+"name": "клевер - растущая культура",
+"w": 340,
+"h": 384
+},
+"klever": {
+"name": "клевер",
+"w": 316,
+"h": 384
+},
+"klevernyy_chay": {
+"name": "клеверный чай",
+"w": 384,
+"h": 345
+},
+"klinok_zamerzshiy_vo_ldu": {
+"name": "клинок замерзший во льду",
+"w": 254,
+"h": 384
+},
+"klinok_surta": {
+"name": "клинок сурта",
+"w": 231,
+"h": 384
+},
+"klyk": {
+"name": "клык",
+"w": 317,
+"h": 384
+},
+"klyuch_mira": {
+"name": "ключ мира",
+"w": 278,
+"h": 384
+},
+"klyuch_ot_zamka": {
+"name": "ключ от замка",
+"w": 256,
+"h": 384
+},
+"klyuch_piramidy": {
+"name": "ключ пирамиды",
+"w": 204,
+"h": 384
+},
+"kniga_run": {
+"name": "книга рун",
+"w": 384,
+"h": 368
+},
+"kover_iz_shkur": {
+"name": "ковер из шкур",
+"w": 384,
+"h": 223
+},
+"kover": {
+"name": "ковер",
+"w": 384,
+"h": 204
+},
+"kogot": {
+"name": "коготь",
+"w": 341,
+"h": 384
+},
+"kozhanyy_komplekt": {
+"name": "кожаный комплект",
+"w": 209,
+"h": 384
+},
+"kokos": {
+"name": "кокос",
+"w": 384,
+"h": 350
+},
+"kokosovaya_palma_s_plodami": {
+"name": "кокосовая пальма с плодами",
+"w": 302,
+"h": 384
+},
+"kolodec_s_vodoy": {
+"name": "колодец с водой",
+"w": 288,
+"h": 384
+},
+"kolodec_s_otravlenoy_vodoy": {
+"name": "колодец с отравленой водой",
+"w": 332,
+"h": 384
+},
+"kolonna_so_vzryvchatym_peskom": {
+"name": "колонна со взрывчатым песком",
+"w": 179,
+"h": 384
+},
+"kope": {
+"name": "копье",
+"w": 195,
+"h": 384
+},
+"kora": {
+"name": "кора",
+"w": 314,
+"h": 384
+},
+"korzina_semyan": {
+"name": "корзина семян",
+"w": 350,
+"h": 384
+},
+"korichnevyy_krasitel": {
+"name": "коричневый краситель",
+"w": 384,
+"h": 242
+},
+"kornevoy_labirint_segment": {
+"name": "корневой лабиринт - сегмент",
+"w": 384,
+"h": 330
+},
+"koryaga1": {
+"name": "коряга1",
+"w": 380,
+"h": 384
+},
+"koster": {
+"name": "костер",
+"w": 359,
+"h": 384
+},
+"kost": {
+"name": "кость",
+"w": 384,
+"h": 380
+},
+"kostyanaya_klakda": {
+"name": "костяная клакда",
+"w": 359,
+"h": 384
+},
+"kostyanoy_arbalet": {
+"name": "костяной арбалет",
+"w": 384,
+"h": 292
+},
+"kostyanoy_komplekt": {
+"name": "костяной комплект",
+"w": 229,
+"h": 384
+},
+"kotelok": {
+"name": "котелок",
+"w": 384,
+"h": 263
+},
+"kofe": {
+"name": "кофе",
+"w": 384,
+"h": 325
+},
+"kofeynye_zerna": {
+"name": "кофейные зерна",
+"w": 384,
+"h": 291
+},
+"kofeynyy_kust_zrelyy_bolshe_10_yagod": {
+"name": "кофейный куст зрелый(больше 10 ягод)",
+"w": 291,
+"h": 384
+},
+"kofeynyy_kust_nezrelyy_0_10_yagod": {
+"name": "кофейный куст незрелый(0-10 ягод)",
+"w": 288,
+"h": 384
+},
+"krasnyy_krasitel": {
+"name": "красный краситель",
+"w": 384,
+"h": 244
+},
+"krasnyy_pesok_resurs": {
+"name": "красный песок ресурс",
+"w": 384,
+"h": 257
+},
+"kremnevye_strely": {
+"name": "кремневые стрелы",
+"w": 354,
+"h": 384
+},
+"krepostnaya_bashnya": {
+"name": "крепостная башня",
+"w": 237,
+"h": 384
+},
+"krepost_udgarda": {
+"name": "крепость Удгарда",
+"w": 384,
+"h": 362
+},
+"kristall_velikana": {
+"name": "кристалл великана",
+"w": 376,
+"h": 384
+},
+"kristall_mutacii": {
+"name": "кристалл мутации",
+"w": 223,
+"h": 384
+},
+"krovat": {
+"name": "кровать",
+"w": 384,
+"h": 331
+},
+"krug_megalitov": {
+"name": "круг мегалитов",
+"w": 371,
+"h": 384
+},
+"kuznechnaya_nakovalna_klana_ogon_vnutri_gorit_animaciya": {
+"name": "кузнечная наковальна клана огонь внутри горит анимация",
+"w": 384,
+"h": 377
+},
+"kuznechnaya_nakovalnya_klana": {
+"name": "кузнечная наковальня клана",
+"w": 384,
+"h": 377
+},
+"kuznica_ognya": {
+"name": "кузница огня",
+"w": 384,
+"h": 363
+},
+"kukuruza_rastuschaya_kultura": {
+"name": "кукуруза растущая культура",
+"w": 194,
+"h": 384
+},
+"kukuruza": {
+"name": "кукуруза",
+"w": 253,
+"h": 384
+},
+"kust_ananasa_bez_plodov": {
+"name": "куст ананаса без плодов",
+"w": 384,
+"h": 340
+},
+"kust_ananasa_s_vyrosshim_ananasom": {
+"name": "куст ананаса с выросшим ананасом",
+"w": 384,
+"h": 363
+},
+"kust_belyh_yagod": {
+"name": "куст белых ягод",
+"w": 358,
+"h": 384
+},
+"kust_gornyh_yagod": {
+"name": "куст горных ягод",
+"w": 337,
+"h": 384
+},
+"kust_krasnyh_yagod": {
+"name": "куст красных ягод",
+"w": 384,
+"h": 313
+},
+"kust_sinih_yagod": {
+"name": "куст синих ягод",
+"w": 346,
+"h": 384
+},
+"khopesh_faraona": {
+"name": "кхопеш фараона",
+"w": 217,
+"h": 384
+},
+"led": {
+"name": "лед",
+"w": 372,
+"h": 384
+},
+"ledyanaya_zhila": {
+"name": "ледяная жила",
+"w": 350,
+"h": 384
+},
+"ledyanaya_peschera_yeti": {
+"name": "ледяная пещера йети",
+"w": 384,
+"h": 318
+},
+"ledyanaya_ryba": {
+"name": "ледяная рыба",
+"w": 384,
+"h": 250
+},
+"ledyanoy_drevniy_komplekt": {
+"name": "ледяной древний комплект",
+"w": 221,
+"h": 384
+},
+"ledyanoy_karavan": {
+"name": "ледяной караван",
+"w": 384,
+"h": 306
+},
+"ledyanoy_kristal_resurs": {
+"name": "ледяной кристал ресурс",
+"w": 189,
+"h": 384
+},
+"ledyanoy_kristal": {
+"name": "ледяной кристал",
+"w": 310,
+"h": 384
+},
+"ledyanoy_kuragan_modul": {
+"name": "ледяной кураган модуль",
+"w": 384,
+"h": 271
+},
+"ledyanoy_topor_vozhdya": {
+"name": "ледяной топор вождя",
+"w": 302,
+"h": 384
+},
+"liana": {
+"name": "лиана",
+"w": 384,
+"h": 326
+},
+"listya_kakao": {
+"name": "листья какао",
+"w": 351,
+"h": 384
+},
+"logovo_vedmy": {
+"name": "логово ведьмы",
+"w": 384,
+"h": 365
+},
+"logovo_trolya": {
+"name": "логово троля",
+"w": 384,
+"h": 316
+},
+"lodka_pereprava": {
+"name": "лодка-переправа",
+"w": 384,
+"h": 288
+},
+"lodka": {
+"name": "лодка",
+"w": 384,
+"h": 281
+},
+"lopata": {
+"name": "лопата",
+"w": 221,
+"h": 384
+},
+"lohmotya": {
+"name": "лохмотья",
+"w": 384,
+"h": 309
+},
+"luk": {
+"name": "лук",
+"w": 158,
+"h": 384
+},
+"lyustra": {
+"name": "люстра",
+"w": 352,
+"h": 384
+},
+"magicheskoe_yadro": {
+"name": "магическое ядро",
+"w": 347,
+"h": 384
+},
+"magmatit": {
+"name": "магматит",
+"w": 366,
+"h": 384
+},
+"magmatitovaya_kirka": {
+"name": "магматитовая кирка",
+"w": 325,
+"h": 384
+},
+"magmatitovyy_komplekt": {
+"name": "магматитовый комплект",
+"w": 195,
+"h": 384
+},
+"magmatitovyy_slitok": {
+"name": "магматитовый слиток",
+"w": 384,
+"h": 344
+},
+"magmatitovyy_stroitelnyy_blok": {
+"name": "магматитовый строительный блок",
+"w": 372,
+"h": 384
+},
+"mango_palma_bez_plodoa": {
+"name": "манго пальма без плодоа",
+"w": 341,
+"h": 384
+},
+"mango_palma_spelaya": {
+"name": "манго пальма спелая",
+"w": 341,
+"h": 384
+},
+"mango": {
+"name": "манго",
+"w": 344,
+"h": 384
+},
+"mandragora_rastuschaya": {
+"name": "мандрагора растущая",
+"w": 366,
+"h": 384
+},
+"mandragora_sobrannaya": {
+"name": "мандрагора собранная",
+"w": 254,
+"h": 384
+},
+"mandragorovyy_chat": {
+"name": "мандрагоровый чат",
+"w": 352,
+"h": 384
+},
+"maslo": {
+"name": "масло",
+"w": 384,
+"h": 335
+},
+"masterskaya_eytri_modul": {
+"name": "мастерская Эйтри - модуль",
+"w": 378,
+"h": 384
+},
+"megalit": {
+"name": "мегалит",
+"w": 210,
+"h": 384
+},
+"med": {
+"name": "мед",
+"w": 363,
+"h": 384
+},
+"mednaya_kirka": {
+"name": "медная кирка",
+"w": 365,
+"h": 384
+},
+"mednaya_ruda_predmet": {
+"name": "медная руда предмет",
+"w": 343,
+"h": 384
+},
+"mednaya_ruda": {
+"name": "медная руда",
+"w": 360,
+"h": 384
+},
+"mednye_strely": {
+"name": "медные стрелы",
+"w": 384,
+"h": 370
+},
+"mednyy_komplekt": {
+"name": "медный комплект",
+"w": 233,
+"h": 384
+},
+"mednyy_mech": {
+"name": "медный меч",
+"w": 233,
+"h": 384
+},
+"mednyy_slitok": {
+"name": "медный слиток",
+"w": 384,
+"h": 275
+},
+"medovyy_chay": {
+"name": "медовый чай",
+"w": 375,
+"h": 384
+},
+"melnica_zapolnenaya_zernom": {
+"name": "мельница заполненая зерном",
+"w": 356,
+"h": 384
+},
+"melnica_pustaya": {
+"name": "мельница пустая",
+"w": 356,
+"h": 384
+},
+"mertvoe_derevo": {
+"name": "мертвое дерево",
+"w": 297,
+"h": 384
+},
+"metatelnoe_kope": {
+"name": "метательное копье",
+"w": 335,
+"h": 384
+},
+"meh": {
+"name": "мех",
+"w": 384,
+"h": 276
+},
+"mehovoy_komplekt": {
+"name": "меховой комплект",
+"w": 277,
+"h": 384
+},
+"mech_derevyannyy": {
+"name": "меч деревянный",
+"w": 212,
+"h": 384
+},
+"mech_zheleznyy": {
+"name": "меч железный",
+"w": 178,
+"h": 384
+},
+"mech_zoloto_asgarda": {
+"name": "меч золото асгарда",
+"w": 217,
+"h": 384
+},
+"mech_magmatitovyy": {
+"name": "меч магматитовый",
+"w": 208,
+"h": 384
+},
+"mech_raduzhnogo_oskolka": {
+"name": "меч радужного осколка",
+"w": 197,
+"h": 384
+},
+"mech_svart_stalnoy": {
+"name": "меч сварт-стальной",
+"w": 190,
+"h": 384
+},
+"mech_titanovyy": {
+"name": "меч титановый",
+"w": 167,
+"h": 384
+},
+"moloko": {
+"name": "молоко",
+"w": 186,
+"h": 384
+},
+"molot_gnoma": {
+"name": "молот гнома",
+"w": 384,
+"h": 377
+},
+"molot": {
+"name": "молот",
+"w": 238,
+"h": 384
+},
+"morkov_rasstuschaya_kultura": {
+"name": "морковь - расстущая культура",
+"w": 257,
+"h": 384
+},
+"morkov_rostok": {
+"name": "морковь росток",
+"w": 384,
+"h": 372
+},
+"morkov_semyanav": {
+"name": "морковь семянав",
+"w": 384,
+"h": 254
+},
+"morkov": {
+"name": "морковь",
+"w": 384,
+"h": 343
+},
+"moroznaya_citadel": {
+"name": "морозная цитадель",
+"w": 384,
+"h": 349
+},
+"muka": {
+"name": "мука",
+"w": 384,
+"h": 264
+},
+"melnir_generator": {
+"name": "мьёльнир генератор",
+"w": 282,
+"h": 384
+},
+"myaso_gryzuna": {
+"name": "мясо грызуна",
+"w": 384,
+"h": 230
+},
+"nagrudnik": {
+"name": "нагрудник",
+"w": 378,
+"h": 384
+},
+"nakovalnya": {
+"name": "наковальня",
+"w": 356,
+"h": 384
+},
+"nakopitel": {
+"name": "накопитель",
+"w": 264,
+"h": 384
+},
+"nevspahannaya_gryad_tayl": {
+"name": "невспаханная грядь тайл",
+"w": 384,
+"h": 271
+},
+"nevspahannaya_gryad": {
+"name": "невспаханная грядь",
+"w": 384,
+"h": 331
+},
+"nektar_sveta": {
+"name": "нектар света",
+"w": 252,
+"h": 384
+},
+"nektar": {
+"name": "нектар",
+"w": 209,
+"h": 384
+},
+"nitki": {
+"name": "нитки",
+"w": 242,
+"h": 384
+},
+"nozh_dlya_obrabotki": {
+"name": "нож для обработки",
+"w": 384,
+"h": 361
+},
+"oazis_stoyanka": {
+"name": "оазис стоянка",
+"w": 327,
+"h": 384
+},
+"oblachenie_hranitelya": {
+"name": "облачение хранителя",
+"w": 252,
+"h": 384
+},
+"obryvok_raduzhnogo_mosta_modul": {
+"name": "обрывок радужного моста - модуль",
+"w": 384,
+"h": 278
+},
+"obsidian": {
+"name": "обсидиан",
+"w": 353,
+"h": 384
+},
+"obsidianovyy_stroitelnyy_blok": {
+"name": "обсидиановый строительный блок",
+"w": 372,
+"h": 384
+},
+"obuglennoe_zoloto": {
+"name": "обугленное золото",
+"w": 384,
+"h": 315
+},
+"ognivo": {
+"name": "огниво",
+"w": 297,
+"h": 384
+},
+"ogurec_rostok": {
+"name": "огурец - росток",
+"w": 384,
+"h": 322
+},
+"ogurec_rastuschaya_kultura": {
+"name": "огурец растущая культура",
+"w": 223,
+"h": 384
+},
+"ogurec_semyana": {
+"name": "огурец семяна",
+"w": 384,
+"h": 288
+},
+"ogurec": {
+"name": "огурец",
+"w": 357,
+"h": 384
+},
+"oranzhereya": {
+"name": "оранжерея",
+"w": 362,
+"h": 384
+},
+"oreh_velikana": {
+"name": "орех великана",
+"w": 384,
+"h": 335
+},
+"orhideya": {
+"name": "орхидея",
+"w": 370,
+"h": 384
+},
+"osadnaya_bashnya": {
+"name": "осадная башня",
+"w": 233,
+"h": 384
+},
+"oskolok_bivresta_2": {
+"name": "осколок бивреста",
+"w": 384,
+"h": 382
+},
+"oskolok_lda": {
+"name": "осколок льда",
+"w": 339,
+"h": 384
+},
+"oskolok_melnira": {
+"name": "осколок мьельнира",
+"w": 309,
+"h": 384
+},
+"oskolok_radugi": {
+"name": "осколок радуги",
+"w": 175,
+"h": 384
+},
+"oskolochnyy_komplekt": {
+"name": "осколочный комплект",
+"w": 213,
+"h": 384
+},
+"ochischyayuschee_zelya": {
+"name": "очищяющее зелья",
+"w": 235,
+"h": 384
+},
+"palka": {
+"name": "палка",
+"w": 384,
+"h": 331
+},
+"pancir_zhara": {
+"name": "панцирь жара",
+"w": 334,
+"h": 384
+},
+"paporotnik": {
+"name": "папоротник",
+"w": 275,
+"h": 384
+},
+"paporotnikovyy_chay": {
+"name": "папоротниковый чай",
+"w": 367,
+"h": 384
+},
+"paryaschiy_kamen": {
+"name": "парящий камень",
+"w": 270,
+"h": 384
+},
+"pautina": {
+"name": "паутина",
+"w": 384,
+"h": 378
+},
+"pen_berezy_1": {
+"name": "пень березы 1",
+"w": 384,
+"h": 268
+},
+"pen_berezy2": {
+"name": "пень березы2",
+"w": 384,
+"h": 350
+},
+"pen_berezy3": {
+"name": "пень березы3",
+"w": 375,
+"h": 384
+},
+"pen_dlya_dereva_2": {
+"name": "пень для дерева 2",
+"w": 312,
+"h": 384
+},
+"pen_dlya_dereva_5": {
+"name": "пень для дерева 5",
+"w": 384,
+"h": 255
+},
+"pen_dlya_derevev_1_i_3_i_4": {
+"name": "пень для деревьев 1 и 3 и 4 ",
+"w": 384,
+"h": 292
+},
+"pen_zhdunglievogo_dereva": {
+"name": "пень ждунглиевого дерева",
+"w": 384,
+"h": 292
+},
+"pepel": {
+"name": "пепел",
+"w": 384,
+"h": 243
+},
+"pero_valkirii": {
+"name": "перо валькирии",
+"w": 212,
+"h": 384
+},
+"perya": {
+"name": "перья",
+"w": 344,
+"h": 384
+},
+"pesok_resurs": {
+"name": "песок ресурс",
+"w": 384,
+"h": 275
+},
+"peschannaya_piramida": {
+"name": "песчанная пирамида",
+"w": 384,
+"h": 312
+},
+"pechenaya_kukuruza": {
+"name": "печеная кукуруза",
+"w": 246,
+"h": 384
+},
+"pechenaya_tykva": {
+"name": "печеная тыква",
+"w": 384,
+"h": 327
+},
+"pechenyy_grib": {
+"name": "печеный гриб",
+"w": 309,
+"h": 384
+},
+"pech": {
+"name": "печь",
+"w": 322,
+"h": 384
+},
+"piramida_modul_steny": {
+"name": "пирамида-модуль стены",
+"w": 384,
+"h": 331
+},
+"pirozhki_eytri_osobyy_predmet": {
+"name": "пирожки Эйтри - особый предмет",
+"w": 384,
+"h": 362
+},
+"pirozhki_eytri": {
+"name": "пирожки Эйтри",
+"w": 384,
+"h": 281
+},
+"pismo_ohotnika": {
+"name": "письмо охотника",
+"w": 384,
+"h": 364
+},
+"plamennyy_klinok": {
+"name": "пламенный клинок",
+"w": 184,
+"h": 384
+},
+"platforma_paryaschego_dvorca": {
+"name": "платформа парящего дворца",
+"w": 384,
+"h": 305
+},
+"plod_kaktusa": {
+"name": "плод кактуса",
+"w": 308,
+"h": 384
+},
+"podzemnyy_grib": {
+"name": "подземный гриб",
+"w": 302,
+"h": 384
+},
+"podemnaya_cep_vorot": {
+"name": "подъемная цепь ворот",
+"w": 272,
+"h": 384
+},
+"polynnyy_chat": {
+"name": "полынный чат",
+"w": 381,
+"h": 384
+},
+"polyn_rastuschaya_kultura": {
+"name": "полынь - растущая культура",
+"w": 272,
+"h": 384
+},
+"polyn_sobrannaya": {
+"name": "полынь(собранная)",
+"w": 256,
+"h": 384
+},
+"ponozhi": {
+"name": "поножи",
+"w": 293,
+"h": 384
+},
+"posoh_arangutanga": {
+"name": "посох арангутанга",
+"w": 186,
+"h": 384
+},
+"posoh_vedmy": {
+"name": "посох ведьмы",
+"w": 172,
+"h": 384
+},
+"posoh_iskr": {
+"name": "посох искр",
+"w": 185,
+"h": 384
+},
+"posoh_faraona": {
+"name": "посох фараона",
+"w": 205,
+"h": 384
+},
+"potolochnye_shipy": {
+"name": "потолочные шипы",
+"w": 384,
+"h": 381
+},
+"protivoyadie": {
+"name": "противоядие",
+"w": 235,
+"h": 384
+},
+"psi_pyl": {
+"name": "пси-пыль",
+"w": 272,
+"h": 384
+},
+"pustynnaya_nakidka": {
+"name": "пустынная накидка",
+"w": 247,
+"h": 384
+},
+"pshenica_rastuschaya_kultura": {
+"name": "пшеница - растущая культура",
+"w": 230,
+"h": 384
+},
+"pylca_fei": {
+"name": "пыльца феи",
+"w": 369,
+"h": 384
+},
+"raduzhnoe_okno_primerno": {
+"name": "радужное окно примерно",
+"w": 384,
+"h": 384
+},
+"raduzhnyy_oskolok": {
+"name": "радужный осколок",
+"w": 256,
+"h": 384
+},
+"raduzhnyy_cvetok": {
+"name": "радужный цветок",
+"w": 249,
+"h": 384
+},
+"razbityy_karavan": {
+"name": "разбитый караван",
+"w": 384,
+"h": 256
+},
+"razrushennaya_derevnya_dom": {
+"name": "разрушенная деревня дом",
+"w": 384,
+"h": 344
+},
+"ramka_dlya_kartiny": {
+"name": "рамка для картины",
+"w": 379,
+"h": 384
+},
+"raskalennyy_kamen_blok": {
+"name": "раскаленный камень блок",
+"w": 384,
+"h": 215
+},
+"raskalennyy_kamen_inventar": {
+"name": "раскаленный камень инвентарь",
+"w": 358,
+"h": 384
+},
+"rastok_sinih_yagod": {
+"name": "расток синих ягод",
+"w": 384,
+"h": 337
+},
+"redkie_semyana": {
+"name": "редкие семяна",
+"w": 384,
+"h": 375
+},
+"remontnyy_nabor": {
+"name": "ремонтный набор",
+"w": 384,
+"h": 366
+},
+"rzhavaya_ruda": {
+"name": "ржавая руда",
+"w": 372,
+"h": 384
+},
+"rzhavyy_lom": {
+"name": "ржавый лом",
+"w": 384,
+"h": 376
+},
+"risunok_plemeni": {
+"name": "рисунок племени",
+"w": 362,
+"h": 384
+},
+"ruinnyy_kamen": {
+"name": "Руинный камень",
+"w": 332,
+"h": 384
+},
+"ruiny_valgally_modul": {
+"name": "Руины Валгаллы - модуль",
+"w": 371,
+"h": 384
+},
+"svart_stal_ruda_blok_v_mire": {
+"name": "Сварт-сталь руда — блок в мире",
+"w": 342,
+"h": 384
+},
+"svart_stal_ruda_neobrabotannyy_resurs": {
+"name": "Сварт-сталь руда — необработанный ресурс",
+"w": 358,
+"h": 384
+},
+"svart_stal_slitok_pereplavlennyy_metall": {
+"name": "Сварт-сталь слиток — переплавленный металл",
+"w": 384,
+"h": 296
+},
+"serdce_golema": {
+"name": "Сердце голема",
+"w": 367,
+"h": 384
+},
+"serdce_lavy_trofey": {
+"name": "Сердце лавы — трофей",
+"w": 318,
+"h": 384
+},
+"serebryanaya_ruda_blok_v_mire": {
+"name": "Серебряная руда — блок в мире",
+"w": 335,
+"h": 384
+},
+"serebryanaya_ruda_neobrabotannyy_resurs": {
+"name": "Серебряная руда — необработанный ресурс",
+"w": 362,
+"h": 384
+},
+"serebryanaya_slitok_pereplavlennyy_metall": {
+"name": "Серебряная слиток — переплавленный металл",
+"w": 384,
+"h": 297
+},
+"sinyaya_yagoda": {
+"name": "Синяя ягода",
+"w": 379,
+"h": 384
+},
+"skvernyy_kristall": {
+"name": "Скверный кристалл",
+"w": 270,
+"h": 384
+},
+"sklad_sokrovisch": {
+"name": "Склад сокровищ",
+"w": 384,
+"h": 341
+},
+"sklep_drevnih_voinov_esche_var": {
+"name": "Склеп древних воинов еще вар",
+"w": 384,
+"h": 298
+},
+"sklep_drevnih_voinov": {
+"name": "Склеп древних воинов",
+"w": 384,
+"h": 268
+},
+"snezhnyy_blok": {
+"name": "Снежный блок",
+"w": 369,
+"h": 384
+},
+"solnechnyy_kristall": {
+"name": "Солнечный кристалл",
+"w": 190,
+"h": 384
+},
+"steklyannaya_panel": {
+"name": "Стеклянная панель",
+"w": 344,
+"h": 384
+},
+"sunduk_s_zapiskami": {
+"name": "Сундук с записками",
+"w": 384,
+"h": 378
+},
+"tapok_hel": {
+"name": "Тапок Хель",
+"w": 384,
+"h": 240
+},
+"terrakota": {
+"name": "Терракота",
+"w": 384,
+"h": 359
+},
+"titanovaya_ruda_blok_v_mire": {
+"name": "Титановая руда — блок в мире",
+"w": 344,
+"h": 384
+},
+"titanovaya_ruda_neobrabotannyy_resurs": {
+"name": "Титановая руда — необработанный ресурс",
+"w": 376,
+"h": 384
+},
+"titanovaya_slitok_pereplavlennyy_metall": {
+"name": "Титановая слиток — переплавленный металл",
+"w": 384,
+"h": 293
+},
+"tron_mertvogo_lda": {
+"name": "Трон Мертвого льда",
+"w": 296,
+"h": 384
+},
+"tyuk_sena": {
+"name": "Тюк сена",
+"w": 384,
+"h": 359
+},
+"ugol": {
+"name": "Уголь",
+"w": 371,
+"h": 384
+},
+"hram_vaunov_modul": {
+"name": "Храм Ваунов - модуль",
+"w": 358,
+"h": 384
+},
+"cep_fenrira": {
+"name": "Цепь Фенрира",
+"w": 384,
+"h": 280
+},
+"citadel_moroza": {
+"name": "Цитадель Мороза",
+"w": 384,
+"h": 349
+},
+"chertog_hel": {
+"name": "Чертог Хель",
+"w": 384,
+"h": 359
+},
+"chumnye_topi": {
+"name": "Чумные топи",
+"w": 308,
+"h": 384
+},
+"shahta_maroderov": {
+"name": "Шахта мародёров",
+"w": 384,
+"h": 305
+},
+"shesternya": {
+"name": "Шестерня",
+"w": 384,
+"h": 383
+},
+"yadro_absolyutnogo_nulya_trofey": {
+"name": "Ядро абсолютного нуля — трофей",
+"w": 308,
+"h": 384
+},
+"yadro_molnii_trofey": {
+"name": "Ядро молнии — трофей",
+"w": 307,
+"h": 384
+},
+"yadro_prirody": {
+"name": "Ядро природы",
+"w": 384,
+"h": 358
+},
+"yadro_sveta_trofey": {
+"name": "Ядро света — трофей",
+"w": 384,
+"h": 384
+},
+"yadro_holoda_trofey": {
+"name": "Ядро холода — трофей",
+"w": 341,
+"h": 384
+},
+"romashka_rastuschaya_kultura": {
+"name": "ромашка - растущая культура",
+"w": 266,
+"h": 384
+},
+"romashkovyy_chay": {
+"name": "ромашковый чай",
+"w": 384,
+"h": 309
+},
+"rostok_aloe": {
+"name": "росток алоэ",
+"w": 285,
+"h": 384
+},
+"rostok_bambuka": {
+"name": "росток бамбука",
+"w": 263,
+"h": 384
+},
+"rostok_dkikih_trav": {
+"name": "росток дкиких трав",
+"w": 384,
+"h": 277
+},
+"rostok_zimnih_yagod": {
+"name": "росток зимних ягод",
+"w": 384,
+"h": 345
+},
+"rostok_kakao": {
+"name": "росток какао",
+"w": 384,
+"h": 293
+},
+"rostok_klevera": {
+"name": "росток клевера",
+"w": 384,
+"h": 362
+},
+"rostok_kofe": {
+"name": "росток кофе",
+"w": 384,
+"h": 296
+},
+"rostok_krasnyh_yagod": {
+"name": "росток красных ягод",
+"w": 384,
+"h": 352
+},
+"rostok_kukuruzy": {
+"name": "росток кукурузы",
+"w": 384,
+"h": 301
+},
+"rostok_polyni": {
+"name": "росток полыни",
+"w": 384,
+"h": 374
+},
+"rostok_pshenicy": {
+"name": "росток пшеницы",
+"w": 384,
+"h": 362
+},
+"rostok_romashki": {
+"name": "росток ромашки",
+"w": 384,
+"h": 275
+},
+"rostok_tykvy": {
+"name": "росток тыквы",
+"w": 384,
+"h": 254
+},
+"ruiny_chertogov": {
+"name": "руины чертогов",
+"w": 323,
+"h": 384
+},
+"runa_alvheyma": {
+"name": "руна Альвхейма",
+"w": 231,
+"h": 384
+},
+"runa_asgarda": {
+"name": "руна Асгарда",
+"w": 264,
+"h": 384
+},
+"runa_midgarda": {
+"name": "руна мидгарда",
+"w": 256,
+"h": 384
+},
+"runa_muspelheyma": {
+"name": "руна муспельхейма",
+"w": 254,
+"h": 384
+},
+"runa_niflheyma": {
+"name": "руна нифльхейма",
+"w": 256,
+"h": 384
+},
+"runa_svartalheyma": {
+"name": "руна свартальхейма",
+"w": 302,
+"h": 384
+},
+"runa_helheyma": {
+"name": "руна хельхейма",
+"w": 245,
+"h": 384
+},
+"runa_kamen": {
+"name": "руна-камень",
+"w": 216,
+"h": 384
+},
+"runicheskiy_amulet": {
+"name": "рунический амулет",
+"w": 300,
+"h": 384
+},
+"runicheskiy_kamen": {
+"name": "рунический камень",
+"w": 302,
+"h": 384
+},
+"runnaya_tablichka_velikanov": {
+"name": "рунная табличка великанов",
+"w": 384,
+"h": 330
+},
+"runnyy_kamen": {
+"name": "рунный камень",
+"w": 358,
+"h": 384
+},
+"ruchka_dveri_lyuka": {
+"name": "ручка двери, люка",
+"w": 273,
+"h": 384
+},
+"samodelnyy_luk": {
+"name": "самодельный лук",
+"w": 216,
+"h": 384
+},
+"sarkofag_faraona": {
+"name": "саркофаг фараона",
+"w": 381,
+"h": 384
+},
+"sarkofag_bomba": {
+"name": "саркофаг-бомба",
+"w": 384,
+"h": 328
+},
+"sahar": {
+"name": "сахар",
+"w": 384,
+"h": 245
+},
+"svart_stal": {
+"name": "сварт-сталь",
+"w": 380,
+"h": 384
+},
+"svart_stalnoy_komplekt": {
+"name": "сварт-стальной комплект",
+"w": 231,
+"h": 384
+},
+"svartal_stalnaya_kirka": {
+"name": "сварталь-стальная кирка",
+"w": 347,
+"h": 384
+},
+"svekla_rastuschaya_kultura": {
+"name": "свекла - растущая культура",
+"w": 301,
+"h": 384
+},
+"svekla_rostok": {
+"name": "свекла росток",
+"w": 384,
+"h": 271
+},
+"svekla_semyana": {
+"name": "свекла семяна",
+"w": 384,
+"h": 268
+},
+"svekla": {
+"name": "свекла",
+"w": 344,
+"h": 384
+},
+"svetyaschayasya_sliz": {
+"name": "светящаяся слизь",
+"w": 384,
+"h": 283
+},
+"svetyaschiesya_spory": {
+"name": "светящиеся споры",
+"w": 384,
+"h": 365
+},
+"svetyaschiysya_grib": {
+"name": "светящийся гриб",
+"w": 337,
+"h": 384
+},
+"svitok_magii": {
+"name": "свиток магии",
+"w": 384,
+"h": 240
+},
+"svitok_odina": {
+"name": "свиток одина",
+"w": 384,
+"h": 313
+},
+"svyatilische_arungatanga": {
+"name": "святилище арунгатанга",
+"w": 336,
+"h": 384
+},
+"sekira_heymdalya": {
+"name": "секира Хеймдаля",
+"w": 231,
+"h": 384
+},
+"sekretnaya_shahta": {
+"name": "секретная шахта",
+"w": 384,
+"h": 326
+},
+"semena_aloe": {
+"name": "семена алоэ",
+"w": 384,
+"h": 258
+},
+"semena_bambuka": {
+"name": "семена бамбука",
+"w": 384,
+"h": 267
+},
+"semena_dikih_strav": {
+"name": "семена диких страв",
+"w": 384,
+"h": 267
+},
+"semena_zimnih_yagod": {
+"name": "семена зимних ягод",
+"w": 384,
+"h": 257
+},
+"semena_kakao": {
+"name": "семена какао",
+"w": 384,
+"h": 232
+},
+"semena_klevera": {
+"name": "семена клевера",
+"w": 384,
+"h": 316
+},
+"semena_kofe": {
+"name": "семена кофе",
+"w": 384,
+"h": 228
+},
+"semena_krasnyh_yagod": {
+"name": "семена красных ягод",
+"w": 384,
+"h": 241
+},
+"semena_mandragory": {
+"name": "семена мандрагоры",
+"w": 384,
+"h": 285
+},
+"semena_morkovi": {
+"name": "семена моркови",
+"w": 384,
+"h": 265
+},
+"semena_polyni": {
+"name": "семена полыни",
+"w": 384,
+"h": 283
+},
+"semena_pshenicy": {
+"name": "семена пшеницы",
+"w": 384,
+"h": 247
+},
+"semena_romashki": {
+"name": "семена ромашки",
+"w": 384,
+"h": 280
+},
+"semena_svekly": {
+"name": "семена свеклы",
+"w": 384,
+"h": 286
+},
+"semena_sinih_yagod": {
+"name": "семена синих ягод",
+"w": 384,
+"h": 194
+},
+"semya_zhizni": {
+"name": "семя жизни",
+"w": 269,
+"h": 384
+},
+"semyana_kukuruzy": {
+"name": "семяна кукурузы",
+"w": 384,
+"h": 229
+},
+"semyana_tykvy": {
+"name": "семяна тыквы",
+"w": 384,
+"h": 217
+},
+"sera": {
+"name": "сера",
+"w": 350,
+"h": 384
+},
+"seraya_zemlya": {
+"name": "серая земля",
+"w": 366,
+"h": 384
+},
+"serdce_dzhungley": {
+"name": "сердце джунглей",
+"w": 269,
+"h": 384
+},
+"serdce_kuznicy": {
+"name": "сердце кузницы",
+"w": 327,
+"h": 384
+},
+"serdce_lavy": {
+"name": "сердце лавы",
+"w": 260,
+"h": 384
+},
+"serebro": {
+"name": "серебро",
+"w": 384,
+"h": 292
+},
+"serebryanyy_slitok": {
+"name": "серебряный слиток",
+"w": 384,
+"h": 278
+},
+"sero_zelenyy_krasitel": {
+"name": "серо-зеленый краситель",
+"w": 384,
+"h": 238
+},
+"serp": {
+"name": "серп",
+"w": 331,
+"h": 384
+},
+"siniy_krasitel": {
+"name": "синий краситель",
+"w": 384,
+"h": 238
+},
+"skvernyy_kristal": {
+"name": "скверный кристал",
+"w": 276,
+"h": 384
+},
+"sklep_drevnih_voynov_modul": {
+"name": "склеп древних войнов - модуль",
+"w": 364,
+"h": 384
+},
+"sleza_hel": {
+"name": "слеза хель",
+"w": 241,
+"h": 384
+},
+"sliva": {
+"name": "слива",
+"w": 350,
+"h": 384
+},
+"sliz": {
+"name": "слизь",
+"w": 384,
+"h": 270
+},
+"sneg": {
+"name": "снег",
+"w": 366,
+"h": 384
+},
+"snezhok": {
+"name": "снежок",
+"w": 384,
+"h": 382
+},
+"sozdatel_char": {
+"name": "создатель чар",
+"w": 372,
+"h": 384
+},
+"sok_iz_zimnih_yagod": {
+"name": "сок из зимних ягод",
+"w": 291,
+"h": 384
+},
+"sokodav_bez_butylki_i_fruktov_pustoy": {
+"name": "сокодав без бутылки и фруктов(пустой)",
+"w": 275,
+"h": 384
+},
+"sokodav_s_butylkoy_zapolnenyy_fruktami": {
+"name": "сокодав с бутылкой заполненый фруктами",
+"w": 271,
+"h": 384
+},
+"sokodav_s_podstavlenoy_butylkoy": {
+"name": "сокодав с подставленой бутылкой",
+"w": 272,
+"h": 384
+},
+"solnechnyy_kristal": {
+"name": "солнечный кристал",
+"w": 213,
+"h": 384
+},
+"spory": {
+"name": "споры",
+"w": 275,
+"h": 384
+},
+"srubok_pen_bambuka": {
+"name": "срубок(пень) бамбука",
+"w": 329,
+"h": 384
+},
+"stalnoy_slitok": {
+"name": "стальной слиток",
+"w": 384,
+"h": 292
+},
+"steyk": {
+"name": "стейк",
+"w": 384,
+"h": 297
+},
+"steklo": {
+"name": "стекло",
+"w": 314,
+"h": 384
+},
+"stol": {
+"name": "стол",
+"w": 384,
+"h": 336
+},
+"strely": {
+"name": "стрелы",
+"w": 337,
+"h": 384
+},
+"stul": {
+"name": "стул",
+"w": 250,
+"h": 384
+},
+"sunduk_klana": {
+"name": "сундук клана",
+"w": 384,
+"h": 277
+},
+"sunduk_sokrovischnicy": {
+"name": "сундук сокровищницы",
+"w": 384,
+"h": 290
+},
+"sunduk_ur_1": {
+"name": "сундук ур 1",
+"w": 384,
+"h": 381
+},
+"sunduk_ur_2": {
+"name": "сундук ур 2",
+"w": 384,
+"h": 375
+},
+"sunduk_ur_3": {
+"name": "сундук ур 3",
+"w": 384,
+"h": 310
+},
+"sushenaya_plitka_iz_kukuruzy": {
+"name": "сушеная плитка из кукурузы",
+"w": 384,
+"h": 311
+},
+"syraya_ryba": {
+"name": "сырая рыба",
+"w": 384,
+"h": 213
+},
+"syroe_myaso_anakondy": {
+"name": "сырое мясо анаконды",
+"w": 384,
+"h": 216
+},
+"syroe_myaso_barsa": {
+"name": "сырое мясо барса",
+"w": 384,
+"h": 207
+},
+"syroe_myaso_verblyuda": {
+"name": "сырое мясо верблюда",
+"w": 384,
+"h": 364
+},
+"syroe_myaso_grifa": {
+"name": "сырое мясо грифа",
+"w": 384,
+"h": 290
+},
+"syroe_myaso_kabana": {
+"name": "сырое мясо кабана",
+"w": 384,
+"h": 360
+},
+"syroe_myaso_kozla": {
+"name": "сырое мясо козла",
+"w": 384,
+"h": 288
+},
+"syroe_myaso_kraba": {
+"name": "сырое мясо краба",
+"w": 384,
+"h": 342
+},
+"syroe_myaso_krokodila": {
+"name": "сырое мясо крокодила",
+"w": 384,
+"h": 211
+},
+"syroe_myaso_krolika": {
+"name": "сырое мясо кролика",
+"w": 384,
+"h": 252
+},
+"syroe_myaso_kuricy": {
+"name": "сырое мясо курицы",
+"w": 362,
+"h": 384
+},
+"syroe_myaso_lisy": {
+"name": "сырое мясо лисы",
+"w": 384,
+"h": 327
+},
+"syroe_myaso_mamonta": {
+"name": "сырое мясо мамонта",
+"w": 384,
+"h": 334
+},
+"syroe_myaso_medvedya": {
+"name": "сырое мясо медведя",
+"w": 384,
+"h": 344
+},
+"syroe_myaso_moroznogo_zmeya": {
+"name": "сырое мясо морозного змея",
+"w": 290,
+"h": 384
+},
+"syroe_myaso_obezyany": {
+"name": "сырое мясо обезьяны",
+"w": 384,
+"h": 300
+},
+"syroe_myaso_ovcy": {
+"name": "сырое мясо овцы",
+"w": 384,
+"h": 321
+},
+"syroe_myaso_ognenogo_volka": {
+"name": "сырое мясо огненого волка",
+"w": 384,
+"h": 246
+},
+"syroe_myaso_olenya": {
+"name": "сырое мясо оленя",
+"w": 384,
+"h": 234
+},
+"syroe_myaso_orla": {
+"name": "сырое мясо орла",
+"w": 293,
+"h": 384
+},
+"syroe_myaso_polyarnogo_volka": {
+"name": "сырое мясо полярного волка",
+"w": 384,
+"h": 216
+},
+"syroe_myaso_psa": {
+"name": "сырое мясо пса",
+"w": 384,
+"h": 327
+},
+"syroe_myaso_svini": {
+"name": "сырое мясо свиньи",
+"w": 384,
+"h": 248
+},
+"syroe_myaso_surikata": {
+"name": "сырое мясо суриката",
+"w": 384,
+"h": 364
+},
+"syroe_myaso_yaguara": {
+"name": "сырое мясо ягуара",
+"w": 384,
+"h": 266
+},
+"tablichka": {
+"name": "табличка",
+"w": 384,
+"h": 192
+},
+"taran": {
+"name": "таран",
+"w": 384,
+"h": 304
+},
+"temnyy_kristal": {
+"name": "темный кристал",
+"w": 246,
+"h": 384
+},
+"titanovaya_kirka": {
+"name": "титановая кирка",
+"w": 352,
+"h": 384
+},
+"titanovaya_ruda": {
+"name": "титановая руда",
+"w": 375,
+"h": 384
+},
+"titanovyy_komplekt": {
+"name": "титановый комплект",
+"w": 216,
+"h": 384
+},
+"titanovyy_slitok": {
+"name": "титановый слиток",
+"w": 384,
+"h": 318
+},
+"titanovyy_stroitelnyy_blok": {
+"name": "титановый строительный блок",
+"w": 356,
+"h": 384
+},
+"titanovyy_topor": {
+"name": "титановый топор",
+"w": 325,
+"h": 384
+},
+"tkan": {
+"name": "ткань",
+"w": 384,
+"h": 305
+},
+"topor_gornorubschika": {
+"name": "топор горнорубщика",
+"w": 243,
+"h": 384
+},
+"topor": {
+"name": "топор",
+"w": 270,
+"h": 384
+},
+"torgovye_zolotye_samorodki": {
+"name": "торговые золотые самородки",
+"w": 384,
+"h": 355
+},
+"totem_plemeni": {
+"name": "тотем племени",
+"w": 204,
+"h": 384
+},
+"treska": {
+"name": "треска",
+"w": 384,
+"h": 201
+},
+"tron_odina": {
+"name": "трон Одина",
+"w": 247,
+"h": 384
+},
+"trofey_cherep": {
+"name": "трофей череп",
+"w": 284,
+"h": 384
+},
+"tykva_rastuschaya_kultura": {
+"name": "тыква - растущая культура",
+"w": 384,
+"h": 346
+},
+"tykva": {
+"name": "тыква",
+"w": 342,
+"h": 384
+},
+"ugol_resurs": {
+"name": "уголь - ресурс",
+"w": 384,
+"h": 319
+},
+"ugolnaya_ruda": {
+"name": "угольная руда",
+"w": 369,
+"h": 384
+},
+"udobrenie_dlya_kukuruzy": {
+"name": "удобрение для кукурузы",
+"w": 384,
+"h": 351
+},
+"udobrenie_dlya_morkovi": {
+"name": "удобрение для моркови",
+"w": 384,
+"h": 380
+},
+"udobrenie_dlya_ogurcov": {
+"name": "удобрение для огурцов",
+"w": 384,
+"h": 283
+},
+"udobrenie_dlya_svekly": {
+"name": "удобрение для свеклы",
+"w": 384,
+"h": 365
+},
+"udobrenie_dlya_tykvy": {
+"name": "удобрение для тыквы",
+"w": 384,
+"h": 370
+},
+"udochka": {
+"name": "удочка",
+"w": 237,
+"h": 384
+},
+"uley": {
+"name": "улей",
+"w": 300,
+"h": 384
+},
+"faykel": {
+"name": "файкел",
+"w": 163,
+"h": 384
+},
+"fakel_gorit_animirovano": {
+"name": "факел горит анимировано",
+"w": 161,
+"h": 384
+},
+"falshivaya_napolnaya_plita_ili_obychnaya_plita": {
+"name": "фальшивая напольная плита или обычная плита",
+"w": 384,
+"h": 308
+},
+"feoletovyy_krasitel": {
+"name": "феолетовый краситель",
+"w": 384,
+"h": 258
+},
+"finiki": {
+"name": "финики",
+"w": 360,
+"h": 384
+},
+"finikovaya_palma_bez_finikov_0_5": {
+"name": "финиковая пальма без фиников(0-5)",
+"w": 307,
+"h": 384
+},
+"finikovaya_palma_s_finikami_bolshe_5": {
+"name": "финиковая пальма с финиками(больше 5)",
+"w": 306,
+"h": 384
+},
+"flag_zahvata": {
+"name": "флаг захвата",
+"w": 180,
+"h": 384
+},
+"flag_klana": {
+"name": "флаг клана",
+"w": 211,
+"h": 384
+},
+"fleyta": {
+"name": "флейта",
+"w": 384,
+"h": 255
+},
+"fonar": {
+"name": "фонарь",
+"w": 194,
+"h": 384
+},
+"hizhina_velikana_mebel": {
+"name": "хижина великана - мебель",
+"w": 384,
+"h": 209
+},
+"hizhina_velikana": {
+"name": "хижина великана",
+"w": 384,
+"h": 318
+},
+"hizhina_lesnika": {
+"name": "хижина лесника",
+"w": 384,
+"h": 336
+},
+"hizhina_ohotnika": {
+"name": "хижина охотника",
+"w": 384,
+"h": 325
+},
+"hleb": {
+"name": "хлеб",
+"w": 384,
+"h": 344
+},
+"chay_gribnoy_svet": {
+"name": "чай грибной свет",
+"w": 348,
+"h": 384
+},
+"chay_iz_chaynoy_travy": {
+"name": "чай из чайной травы",
+"w": 384,
+"h": 290
+},
+"chaynik_tora": {
+"name": "чайник Тора",
+"w": 346,
+"h": 384
+},
+"chernyy_krasitel": {
+"name": "черный краситель",
+"w": 384,
+"h": 272
+},
+"chernyy_led": {
+"name": "черный лед",
+"w": 384,
+"h": 350
+},
+"chertezh_melnira_generatora": {
+"name": "чертеж мьельнира-генератора",
+"w": 384,
+"h": 383
+},
+"chertog_hel_modul": {
+"name": "чертог Хель -  модуль",
+"w": 299,
+"h": 384
+},
+"chumnaya_trava": {
+"name": "чумная трава",
+"w": 384,
+"h": 352
+},
+"shapka_odina": {
+"name": "шапка одина",
+"w": 330,
+"h": 384
+},
+"shahta_maroderov_2": {
+"name": "шахта мародеров",
+"w": 384,
+"h": 305
+},
+"shahta_titana": {
+"name": "шахта титана",
+"w": 370,
+"h": 384
+},
+"sherst": {
+"name": "шерсть",
+"w": 384,
+"h": 330
+},
+"shkura": {
+"name": "шкура",
+"w": 384,
+"h": 287
+},
+"shkurnyy_komplekt": {
+"name": "шкурный комплект",
+"w": 191,
+"h": 384
+},
+"shlem": {
+"name": "шлем",
+"w": 310,
+"h": 384
+},
+"schit_iz_kryshki_kotla": {
+"name": "щит из крышки котла",
+"w": 349,
+"h": 384
+},
+"schit_na_stenu": {
+"name": "щит на стену",
+"w": 384,
+"h": 383
+},
+"schit": {
+"name": "щит",
+"w": 340,
+"h": 384
+},
+"schuka": {
+"name": "щука",
+"w": 384,
+"h": 214
+},
+"ektoplazma": {
+"name": "эктоплазма",
+"w": 382,
+"h": 384
+},
+"epicentr_vzryva_obekt": {
+"name": "эпицентр взрыва - объект",
+"w": 260,
+"h": 384
+},
+"efir": {
+"name": "эфир",
+"w": 206,
+"h": 384
+},
+"eho_elfov": {
+"name": "эхо эльфов",
+"w": 239,
+"h": 384
+},
+"yabloko": {
+"name": "яблоко",
+"w": 384,
+"h": 374
+},
+"yagodnaya_nastoyka": {
+"name": "ягодная настойка",
+"w": 241,
+"h": 384
+},
+"yagodnyy_sahar": {
+"name": "ягодный сахар",
+"w": 384,
+"h": 298
+},
+"yadovitaya_sliz": {
+"name": "ядовитая слизь",
+"w": 384,
+"h": 282
+},
+"yadovitoe_kope": {
+"name": "ядовитое копье",
+"w": 224,
+"h": 384
+},
+"yadovitye_spory": {
+"name": "ядовитые споры",
+"w": 384,
+"h": 344
+},
+"yadovitye_strely": {
+"name": "ядовитые стрелы",
+"w": 368,
+"h": 384
+},
+"yadro_absolyutnogo_nulya": {
+"name": "ядро абсолютного нуля",
+"w": 303,
+"h": 384
+},
+"yadro_mirozdaniya": {
+"name": "ядро мироздания",
+"w": 363,
+"h": 384
+},
+"yadro_molnii": {
+"name": "ядро молнии",
+"w": 307,
+"h": 384
+},
+"yadro_ognya": {
+"name": "ядро огня",
+"w": 347,
+"h": 384
+},
+"yadro_sveta": {
+"name": "ядро света",
+"w": 187,
+"h": 384
+},
+"yadro_skverny": {
+"name": "ядро скверны",
+"w": 372,
+"h": 384
+},
+"yadro_holoda_resurs": {
+"name": "ядро холода ресурс",
+"w": 302,
+"h": 384
+},
+"yayco_orla": {
+"name": "яйцо орла",
+"w": 290,
+"h": 384
+},
+"yayco": {
+"name": "яйцо",
+"w": 297,
+"h": 384
+},
+"yaschik": {
+"name": "ящик",
+"w": 358,
+"h": 384
+}
+},
+"tex": {
+"zheleznyy_blok_oblicovka": {
+"name": "Железный блок — облицовка"
+},
+"zolotoy_blok_oblicovka": {
+"name": "Золотой блок — облицовка"
+},
+"raduzhnoe_steklo_prohodimaya_plita": {
+"name": "Радужное стекло — проходимая плита"
+},
+"titanovyy_blok_oblicovka": {
+"name": "Титановый блок — облицовка"
+},
+"andezit": {
+"name": "андезит"
+},
+"bazalt": {
+"name": "базальт"
+},
+"bambukovye_doski": {
+"name": "бамбуковые доски"
+},
+"blok_bambuka": {
+"name": "блок бамбука"
+},
+"brevno_bokovaya_poverhnost": {
+"name": "бревно - боковая поверхность"
+},
+"bulyzhnik": {
+"name": "булыжник"
+},
+"gladkiy_peschannik": {
+"name": "гладкий песчанник"
+},
+"glina": {
+"name": "глина"
+},
+"glinyannyy_blok": {
+"name": "глинянный блок"
+},
+"glubinnyy_kamen": {
+"name": "глубинный камень"
+},
+"graviy": {
+"name": "гравий"
+},
+"granit": {
+"name": "гранит"
+},
+"derevo_verhniy_srez": {
+"name": "дерево верхний срез"
+},
+"derevyannye_doski": {
+"name": "деревянные доски"
+},
+"diorit": {
+"name": "диорит"
+},
+"zemlya": {
+"name": "земля"
+},
+"izvestnyak": {
+"name": "известняк"
+},
+"kamennye_kirpichi": {
+"name": "каменные кирпичи"
+},
+"kamen": {
+"name": "камень"
+},
+"kirpichnyy_blok": {
+"name": "кирпичный блок"
+},
+"kostyanoy_blok": {
+"name": "костяной блок"
+},
+"krasnyy_pesok": {
+"name": "красный песок"
+},
+"krasnyy_peschannik": {
+"name": "красный песчанник"
+},
+"led": {
+"name": "лед"
+},
+"ledyanoy_sneg": {
+"name": "ледяной снег"
+},
+"lesnaya_pochva": {
+"name": "лесная почва"
+},
+"listva": {
+"name": "листва"
+},
+"moh": {
+"name": "мох"
+},
+"obsidian": {
+"name": "обсидиан"
+},
+"pesok": {
+"name": "песок"
+},
+"peschannik": {
+"name": "песчанник"
+},
+"premernaya_tekstura_dereva": {
+"name": "премерная текстура дерева"
+},
+"primernaya_tekstura_zhelezo": {
+"name": "примерная текстура железо"
+},
+"primernaya_tekstura_kamen": {
+"name": "примерная текстура камень"
+},
+"primernaya_tekstura_kirpich": {
+"name": "примерная текстура кирпич"
+},
+"primernaya_tekstura_titan": {
+"name": "примерная текстура титан"
+},
+"rzhavyy_metal": {
+"name": "ржавый метал"
+},
+"runnyy_kamen": {
+"name": "рунный камень"
+},
+"svetyaschiysya_gribnoy_blok": {
+"name": "светящийся грибной блок"
+},
+"sneg": {
+"name": "снег"
+},
+"snezhnyy_blok": {
+"name": "снежный блок"
+},
+"tekstura_ledyanogo_okna": {
+"name": "текстура ледяного окна"
+},
+"tekstura_raduzhnogo_okna": {
+"name": "текстура радужного окна"
+},
+"terrakota": {
+"name": "терракота"
+},
+"trava": {
+"name": "трава"
+},
+"tyuk_sena": {
+"name": "тюк сена"
+}
+}
+}
